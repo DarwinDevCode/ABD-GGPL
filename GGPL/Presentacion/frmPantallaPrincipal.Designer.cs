@@ -67,10 +67,10 @@
             this.btnAnimales.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnAnimales.Font = new System.Drawing.Font("Bahnschrift SemiLight", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnAnimales.ForeColor = System.Drawing.Color.White;
-            this.btnAnimales.Location = new System.Drawing.Point(0, 96);
+            this.btnAnimales.Location = new System.Drawing.Point(0, 118);
             this.btnAnimales.Margin = new System.Windows.Forms.Padding(0);
             this.btnAnimales.Name = "btnAnimales";
-            this.btnAnimales.Size = new System.Drawing.Size(200, 40);
+            this.btnAnimales.Size = new System.Drawing.Size(267, 49);
             this.btnAnimales.TabIndex = 0;
             this.btnAnimales.Text = "   Animales";
             this.btnAnimales.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
@@ -82,9 +82,10 @@
             this.ptbxAnimales.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(56)))), ((int)(((byte)(142)))), ((int)(((byte)(60)))));
             this.ptbxAnimales.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
             this.ptbxAnimales.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.ptbxAnimales.Location = new System.Drawing.Point(166, 108);
+            this.ptbxAnimales.Location = new System.Drawing.Point(221, 133);
+            this.ptbxAnimales.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.ptbxAnimales.Name = "ptbxAnimales";
-            this.ptbxAnimales.Size = new System.Drawing.Size(16, 16);
+            this.ptbxAnimales.Size = new System.Drawing.Size(21, 20);
             this.ptbxAnimales.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.ptbxAnimales.TabIndex = 8;
             this.ptbxAnimales.TabStop = false;
@@ -94,9 +95,10 @@
             this.ptbxProduccion.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(56)))), ((int)(((byte)(142)))), ((int)(((byte)(60)))));
             this.ptbxProduccion.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
             this.ptbxProduccion.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.ptbxProduccion.Location = new System.Drawing.Point(166, 168);
+            this.ptbxProduccion.Location = new System.Drawing.Point(221, 207);
+            this.ptbxProduccion.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.ptbxProduccion.Name = "ptbxProduccion";
-            this.ptbxProduccion.Size = new System.Drawing.Size(16, 16);
+            this.ptbxProduccion.Size = new System.Drawing.Size(21, 20);
             this.ptbxProduccion.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.ptbxProduccion.TabIndex = 10;
             this.ptbxProduccion.TabStop = false;
@@ -109,10 +111,10 @@
             this.btnProduccion.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnProduccion.Font = new System.Drawing.Font("Bahnschrift SemiLight", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnProduccion.ForeColor = System.Drawing.Color.White;
-            this.btnProduccion.Location = new System.Drawing.Point(0, 156);
+            this.btnProduccion.Location = new System.Drawing.Point(0, 192);
             this.btnProduccion.Margin = new System.Windows.Forms.Padding(0);
             this.btnProduccion.Name = "btnProduccion";
-            this.btnProduccion.Size = new System.Drawing.Size(200, 40);
+            this.btnProduccion.Size = new System.Drawing.Size(267, 49);
             this.btnProduccion.TabIndex = 1;
             this.btnProduccion.Text = "   Produccion";
             this.btnProduccion.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
@@ -124,9 +126,10 @@
             this.ptbxTransaccion.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(56)))), ((int)(((byte)(142)))), ((int)(((byte)(60)))));
             this.ptbxTransaccion.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
             this.ptbxTransaccion.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.ptbxTransaccion.Location = new System.Drawing.Point(166, 228);
+            this.ptbxTransaccion.Location = new System.Drawing.Point(221, 281);
+            this.ptbxTransaccion.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.ptbxTransaccion.Name = "ptbxTransaccion";
-            this.ptbxTransaccion.Size = new System.Drawing.Size(16, 16);
+            this.ptbxTransaccion.Size = new System.Drawing.Size(21, 20);
             this.ptbxTransaccion.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.ptbxTransaccion.TabIndex = 12;
             this.ptbxTransaccion.TabStop = false;
@@ -139,10 +142,10 @@
             this.btnTransaccion.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnTransaccion.Font = new System.Drawing.Font("Bahnschrift SemiLight", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnTransaccion.ForeColor = System.Drawing.Color.White;
-            this.btnTransaccion.Location = new System.Drawing.Point(0, 216);
+            this.btnTransaccion.Location = new System.Drawing.Point(0, 266);
             this.btnTransaccion.Margin = new System.Windows.Forms.Padding(0);
             this.btnTransaccion.Name = "btnTransaccion";
-            this.btnTransaccion.Size = new System.Drawing.Size(200, 40);
+            this.btnTransaccion.Size = new System.Drawing.Size(267, 49);
             this.btnTransaccion.TabIndex = 2;
             this.btnTransaccion.Text = "   Transacciones";
             this.btnTransaccion.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
@@ -154,9 +157,10 @@
             this.ptbxUsuarios.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(56)))), ((int)(((byte)(142)))), ((int)(((byte)(60)))));
             this.ptbxUsuarios.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
             this.ptbxUsuarios.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.ptbxUsuarios.Location = new System.Drawing.Point(166, 348);
+            this.ptbxUsuarios.Location = new System.Drawing.Point(221, 428);
+            this.ptbxUsuarios.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.ptbxUsuarios.Name = "ptbxUsuarios";
-            this.ptbxUsuarios.Size = new System.Drawing.Size(16, 16);
+            this.ptbxUsuarios.Size = new System.Drawing.Size(21, 20);
             this.ptbxUsuarios.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.ptbxUsuarios.TabIndex = 14;
             this.ptbxUsuarios.TabStop = false;
@@ -169,10 +173,10 @@
             this.btnUsuarios.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnUsuarios.Font = new System.Drawing.Font("Bahnschrift SemiLight", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnUsuarios.ForeColor = System.Drawing.Color.White;
-            this.btnUsuarios.Location = new System.Drawing.Point(0, 336);
+            this.btnUsuarios.Location = new System.Drawing.Point(0, 414);
             this.btnUsuarios.Margin = new System.Windows.Forms.Padding(0);
             this.btnUsuarios.Name = "btnUsuarios";
-            this.btnUsuarios.Size = new System.Drawing.Size(200, 40);
+            this.btnUsuarios.Size = new System.Drawing.Size(267, 49);
             this.btnUsuarios.TabIndex = 3;
             this.btnUsuarios.Text = "   Usuarios";
             this.btnUsuarios.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
@@ -181,9 +185,10 @@
             // 
             // pnlPrincipal
             // 
-            this.pnlPrincipal.Location = new System.Drawing.Point(200, 39);
+            this.pnlPrincipal.Location = new System.Drawing.Point(267, 48);
+            this.pnlPrincipal.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.pnlPrincipal.Name = "pnlPrincipal";
-            this.pnlPrincipal.Size = new System.Drawing.Size(1000, 580);
+            this.pnlPrincipal.Size = new System.Drawing.Size(1333, 714);
             this.pnlPrincipal.TabIndex = 17;
             // 
             // ListaFlecha
@@ -198,9 +203,10 @@
             this.ptbxGestion.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(56)))), ((int)(((byte)(142)))), ((int)(((byte)(60)))));
             this.ptbxGestion.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
             this.ptbxGestion.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.ptbxGestion.Location = new System.Drawing.Point(166, 288);
+            this.ptbxGestion.Location = new System.Drawing.Point(221, 354);
+            this.ptbxGestion.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.ptbxGestion.Name = "ptbxGestion";
-            this.ptbxGestion.Size = new System.Drawing.Size(16, 16);
+            this.ptbxGestion.Size = new System.Drawing.Size(21, 20);
             this.ptbxGestion.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.ptbxGestion.TabIndex = 19;
             this.ptbxGestion.TabStop = false;
@@ -213,10 +219,10 @@
             this.btnGestion.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnGestion.Font = new System.Drawing.Font("Bahnschrift SemiLight", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnGestion.ForeColor = System.Drawing.Color.White;
-            this.btnGestion.Location = new System.Drawing.Point(0, 276);
+            this.btnGestion.Location = new System.Drawing.Point(0, 340);
             this.btnGestion.Margin = new System.Windows.Forms.Padding(0);
             this.btnGestion.Name = "btnGestion";
-            this.btnGestion.Size = new System.Drawing.Size(200, 40);
+            this.btnGestion.Size = new System.Drawing.Size(267, 49);
             this.btnGestion.TabIndex = 18;
             this.btnGestion.Text = "   Gestion";
             this.btnGestion.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
@@ -230,14 +236,15 @@
             this.contenedorGestion.Cursor = System.Windows.Forms.Cursors.Hand;
             this.contenedorGestion.Font = new System.Drawing.Font("Bahnschrift", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.contenedorGestion.FormattingEnabled = true;
-            this.contenedorGestion.ItemHeight = 19;
+            this.contenedorGestion.ItemHeight = 24;
             this.contenedorGestion.Items.AddRange(new object[] {
             "Informacion de Animal",
             "Informacion de Hectarea",
             "Informacion de Lote"});
-            this.contenedorGestion.Location = new System.Drawing.Point(12, 494);
+            this.contenedorGestion.Location = new System.Drawing.Point(16, 608);
+            this.contenedorGestion.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.contenedorGestion.Name = "contenedorGestion";
-            this.contenedorGestion.Size = new System.Drawing.Size(170, 97);
+            this.contenedorGestion.Size = new System.Drawing.Size(226, 98);
             this.contenedorGestion.Sorted = true;
             this.contenedorGestion.TabIndex = 20;
             this.contenedorGestion.Visible = false;
@@ -250,12 +257,13 @@
             this.contenedorProduccion.Cursor = System.Windows.Forms.Cursors.Hand;
             this.contenedorProduccion.Font = new System.Drawing.Font("Bahnschrift", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.contenedorProduccion.FormattingEnabled = true;
-            this.contenedorProduccion.ItemHeight = 19;
+            this.contenedorProduccion.ItemHeight = 24;
             this.contenedorProduccion.Items.AddRange(new object[] {
             "Produccion Lechera"});
-            this.contenedorProduccion.Location = new System.Drawing.Point(12, 472);
+            this.contenedorProduccion.Location = new System.Drawing.Point(16, 581);
+            this.contenedorProduccion.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.contenedorProduccion.Name = "contenedorProduccion";
-            this.contenedorProduccion.Size = new System.Drawing.Size(170, 21);
+            this.contenedorProduccion.Size = new System.Drawing.Size(226, 26);
             this.contenedorProduccion.Sorted = true;
             this.contenedorProduccion.TabIndex = 21;
             this.contenedorProduccion.Visible = false;
@@ -268,13 +276,14 @@
             this.contenedorTransacciones.Cursor = System.Windows.Forms.Cursors.Hand;
             this.contenedorTransacciones.Font = new System.Drawing.Font("Bahnschrift", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.contenedorTransacciones.FormattingEnabled = true;
-            this.contenedorTransacciones.ItemHeight = 19;
+            this.contenedorTransacciones.ItemHeight = 24;
             this.contenedorTransacciones.Items.AddRange(new object[] {
             "Compras",
             "Ventas"});
-            this.contenedorTransacciones.Location = new System.Drawing.Point(12, 499);
+            this.contenedorTransacciones.Location = new System.Drawing.Point(16, 614);
+            this.contenedorTransacciones.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.contenedorTransacciones.Name = "contenedorTransacciones";
-            this.contenedorTransacciones.Size = new System.Drawing.Size(170, 40);
+            this.contenedorTransacciones.Size = new System.Drawing.Size(226, 26);
             this.contenedorTransacciones.Sorted = true;
             this.contenedorTransacciones.TabIndex = 23;
             this.contenedorTransacciones.Visible = false;
@@ -287,14 +296,15 @@
             this.contenedorAnimales.Cursor = System.Windows.Forms.Cursors.Hand;
             this.contenedorAnimales.Font = new System.Drawing.Font("Bahnschrift", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.contenedorAnimales.FormattingEnabled = true;
-            this.contenedorAnimales.ItemHeight = 19;
+            this.contenedorAnimales.ItemHeight = 24;
             this.contenedorAnimales.Items.AddRange(new object[] {
             "Animales",
             "Enfermedades",
             "Salud"});
-            this.contenedorAnimales.Location = new System.Drawing.Point(12, 370);
+            this.contenedorAnimales.Location = new System.Drawing.Point(16, 455);
+            this.contenedorAnimales.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.contenedorAnimales.Name = "contenedorAnimales";
-            this.contenedorAnimales.Size = new System.Drawing.Size(170, 97);
+            this.contenedorAnimales.Size = new System.Drawing.Size(226, 98);
             this.contenedorAnimales.Sorted = true;
             this.contenedorAnimales.TabIndex = 24;
             this.contenedorAnimales.Visible = false;
@@ -307,12 +317,13 @@
             this.contenedorUsuarios.Cursor = System.Windows.Forms.Cursors.Hand;
             this.contenedorUsuarios.Font = new System.Drawing.Font("Bahnschrift", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.contenedorUsuarios.FormattingEnabled = true;
-            this.contenedorUsuarios.ItemHeight = 19;
+            this.contenedorUsuarios.ItemHeight = 24;
             this.contenedorUsuarios.Items.AddRange(new object[] {
             "Usuarios"});
-            this.contenedorUsuarios.Location = new System.Drawing.Point(12, 586);
+            this.contenedorUsuarios.Location = new System.Drawing.Point(16, 721);
+            this.contenedorUsuarios.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.contenedorUsuarios.Name = "contenedorUsuarios";
-            this.contenedorUsuarios.Size = new System.Drawing.Size(170, 21);
+            this.contenedorUsuarios.Size = new System.Drawing.Size(226, 26);
             this.contenedorUsuarios.Sorted = true;
             this.contenedorUsuarios.TabIndex = 25;
             this.contenedorUsuarios.Visible = false;
@@ -320,9 +331,10 @@
             // 
             // btnSalir
             // 
-            this.btnSalir.Location = new System.Drawing.Point(1163, 8);
+            this.btnSalir.Location = new System.Drawing.Point(1551, 10);
+            this.btnSalir.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.btnSalir.Name = "btnSalir";
-            this.btnSalir.Size = new System.Drawing.Size(25, 25);
+            this.btnSalir.Size = new System.Drawing.Size(33, 31);
             this.btnSalir.TabIndex = 26;
             this.btnSalir.Text = "X";
             this.btnSalir.UseVisualStyleBackColor = true;
@@ -330,9 +342,10 @@
             // 
             // btnMinimizar
             // 
-            this.btnMinimizar.Location = new System.Drawing.Point(1132, 8);
+            this.btnMinimizar.Location = new System.Drawing.Point(1509, 10);
+            this.btnMinimizar.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.btnMinimizar.Name = "btnMinimizar";
-            this.btnMinimizar.Size = new System.Drawing.Size(25, 25);
+            this.btnMinimizar.Size = new System.Drawing.Size(33, 31);
             this.btnMinimizar.TabIndex = 27;
             this.btnMinimizar.Text = "-";
             this.btnMinimizar.UseVisualStyleBackColor = true;
@@ -358,8 +371,9 @@
             this.panel1.Controls.Add(this.btnProduccion);
             this.panel1.Controls.Add(this.btnAnimales);
             this.panel1.Location = new System.Drawing.Point(0, 0);
+            this.panel1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(200, 619);
+            this.panel1.Size = new System.Drawing.Size(267, 762);
             this.panel1.TabIndex = 0;
             // 
             // btnResumen
@@ -370,10 +384,10 @@
             this.btnResumen.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnResumen.Font = new System.Drawing.Font("Bahnschrift SemiLight", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnResumen.ForeColor = System.Drawing.Color.White;
-            this.btnResumen.Location = new System.Drawing.Point(0, 39);
+            this.btnResumen.Location = new System.Drawing.Point(0, 48);
             this.btnResumen.Margin = new System.Windows.Forms.Padding(0);
             this.btnResumen.Name = "btnResumen";
-            this.btnResumen.Size = new System.Drawing.Size(200, 40);
+            this.btnResumen.Size = new System.Drawing.Size(267, 49);
             this.btnResumen.TabIndex = 20;
             this.btnResumen.Text = "   Resumen";
             this.btnResumen.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
@@ -382,15 +396,16 @@
             // 
             // frmPantallaPrincipal
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.Beige;
-            this.ClientSize = new System.Drawing.Size(1200, 619);
+            this.ClientSize = new System.Drawing.Size(1600, 762);
             this.Controls.Add(this.btnMinimizar);
             this.Controls.Add(this.btnSalir);
             this.Controls.Add(this.pnlPrincipal);
             this.Controls.Add(this.panel1);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
+            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.MaximizeBox = false;
             this.MinimizeBox = false;
             this.Name = "frmPantallaPrincipal";

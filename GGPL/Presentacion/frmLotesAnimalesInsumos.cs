@@ -33,7 +33,7 @@ namespace Presentacion
         public void MostrarLotesAnimales()
         {
             clase_general.AjustarTabla(dgvLotesAnimales, clase_modulo_animal.ListaLotesAnimales());
-            clase_general.AjustarTabla(dgvLotesInsumos, clase_modulo_animal.ListaLotesInsumos());
+            //clase_general.AjustarTabla(dgvLotesInsumos, clase_modulo_animal.ListaLotesInsumos());
         }
 
         private void lbAgregar01_Click(object sender, EventArgs e)
@@ -44,8 +44,8 @@ namespace Presentacion
 
         private void lbAgregar02_Click(object sender, EventArgs e)
         {
-            frm_lote_insumos.CargarCombobox();
-            frm_lote_insumos.ShowDialog();
+            //frm_lote_insumos.CargarCombobox();
+            //frm_lote_insumos.ShowDialog();
         }
 
         private void dgvLotesInsumos_CellDoubleClick(object sender, DataGridViewCellEventArgs e)

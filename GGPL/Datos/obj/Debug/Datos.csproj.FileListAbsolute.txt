@@ -46,3 +46,9 @@ C:\Users\Darwin Sánchez\Downloads\GGPL\GGPL\Datos\obj\Debug\Datos.csproj.Assemb
 C:\Users\Darwin Sánchez\Downloads\GGPL\GGPL\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
 C:\Users\Darwin Sánchez\Downloads\GGPL\GGPL\Datos\obj\Debug\Datos.dll
 C:\Users\Darwin Sánchez\Downloads\GGPL\GGPL\Datos\obj\Debug\Datos.pdb
+C:\Users\Darwin Sánchez\Documents\ABD-GGPL\GGPL\Datos\bin\Debug\Datos.dll
+C:\Users\Darwin Sánchez\Documents\ABD-GGPL\GGPL\Datos\bin\Debug\Datos.pdb
+C:\Users\Darwin Sánchez\Documents\ABD-GGPL\GGPL\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+C:\Users\Darwin Sánchez\Documents\ABD-GGPL\GGPL\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\Darwin Sánchez\Documents\ABD-GGPL\GGPL\Datos\obj\Debug\Datos.dll
+C:\Users\Darwin Sánchez\Documents\ABD-GGPL\GGPL\Datos\obj\Debug\Datos.pdb

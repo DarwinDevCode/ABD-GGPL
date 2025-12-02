@@ -76,7 +76,8 @@
             dataGridViewCellStyle3.WrapMode = System.Windows.Forms.DataGridViewTriState.False;
             this.dgvEmfermedades.DefaultCellStyle = dataGridViewCellStyle3;
             this.dgvEmfermedades.GridColor = System.Drawing.Color.Black;
-            this.dgvEmfermedades.Location = new System.Drawing.Point(59, 157);
+            this.dgvEmfermedades.Location = new System.Drawing.Point(79, 193);
+            this.dgvEmfermedades.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.dgvEmfermedades.Name = "dgvEmfermedades";
             this.dgvEmfermedades.ReadOnly = true;
             dataGridViewCellStyle4.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
@@ -88,12 +89,14 @@
             dataGridViewCellStyle4.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
             this.dgvEmfermedades.RowHeadersDefaultCellStyle = dataGridViewCellStyle4;
             this.dgvEmfermedades.RowHeadersVisible = false;
+            this.dgvEmfermedades.RowHeadersWidth = 51;
             dataGridViewCellStyle5.BackColor = System.Drawing.Color.Ivory;
             dataGridViewCellStyle5.Font = new System.Drawing.Font("Bahnschrift SemiCondensed", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.dgvEmfermedades.RowsDefaultCellStyle = dataGridViewCellStyle5;
             this.dgvEmfermedades.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
-            this.dgvEmfermedades.Size = new System.Drawing.Size(630, 341);
+            this.dgvEmfermedades.Size = new System.Drawing.Size(840, 420);
             this.dgvEmfermedades.TabIndex = 71;
+            this.dgvEmfermedades.CellDoubleClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgvEmfermedades_CellDoubleClick);
             // 
             // SaludAnimal
             // 
@@ -102,11 +105,11 @@
             this.SaludAnimal.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.SaludAnimal.Font = new System.Drawing.Font("Bahnschrift SemiCondensed", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.SaludAnimal.ForeColor = System.Drawing.Color.White;
-            this.SaludAnimal.Location = new System.Drawing.Point(32, 59);
+            this.SaludAnimal.Location = new System.Drawing.Point(43, 73);
             this.SaludAnimal.Margin = new System.Windows.Forms.Padding(0);
             this.SaludAnimal.Name = "SaludAnimal";
-            this.SaludAnimal.Padding = new System.Windows.Forms.Padding(8, 15, 798, 15);
-            this.SaludAnimal.Size = new System.Drawing.Size(937, 55);
+            this.SaludAnimal.Padding = new System.Windows.Forms.Padding(11, 18, 1064, 18);
+            this.SaludAnimal.Size = new System.Drawing.Size(1243, 69);
             this.SaludAnimal.TabIndex = 69;
             this.SaludAnimal.Text = "Enfermedades";
             // 
@@ -114,11 +117,11 @@
             // 
             this.label1.AutoSize = true;
             this.label1.BackColor = System.Drawing.Color.Ivory;
-            this.label1.Location = new System.Drawing.Point(33, 59);
+            this.label1.Location = new System.Drawing.Point(44, 73);
             this.label1.Margin = new System.Windows.Forms.Padding(0);
             this.label1.Name = "label1";
-            this.label1.Padding = new System.Windows.Forms.Padding(826, 50, 110, 400);
-            this.label1.Size = new System.Drawing.Size(936, 463);
+            this.label1.Padding = new System.Windows.Forms.Padding(1101, 62, 147, 492);
+            this.label1.Size = new System.Drawing.Size(1248, 570);
             this.label1.TabIndex = 68;
             // 
             // label4
@@ -127,9 +130,10 @@
             this.label4.BackColor = System.Drawing.Color.Ivory;
             this.label4.Font = new System.Drawing.Font("Bahnschrift SemiCondensed", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label4.ForeColor = System.Drawing.SystemColors.ControlDarkDark;
-            this.label4.Location = new System.Drawing.Point(739, 195);
+            this.label4.Location = new System.Drawing.Point(985, 240);
+            this.label4.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(43, 14);
+            this.label4.Size = new System.Drawing.Size(51, 18);
             this.label4.TabIndex = 79;
             this.label4.Text = "Animal:";
             // 
@@ -139,9 +143,10 @@
             this.label3.BackColor = System.Drawing.Color.Ivory;
             this.label3.Font = new System.Drawing.Font("Bahnschrift SemiCondensed", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label3.ForeColor = System.Drawing.SystemColors.ControlDarkDark;
-            this.label3.Location = new System.Drawing.Point(739, 255);
+            this.label3.Location = new System.Drawing.Point(985, 314);
+            this.label3.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(67, 14);
+            this.label3.Size = new System.Drawing.Size(81, 18);
             this.label3.TabIndex = 78;
             this.label3.Text = "Enfermedad:";
             // 
@@ -151,9 +156,10 @@
             this.label2.BackColor = System.Drawing.Color.Ivory;
             this.label2.Font = new System.Drawing.Font("Bahnschrift SemiCondensed", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label2.ForeColor = System.Drawing.SystemColors.ControlDarkDark;
-            this.label2.Location = new System.Drawing.Point(739, 315);
+            this.label2.Location = new System.Drawing.Point(985, 388);
+            this.label2.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(74, 14);
+            this.label2.Size = new System.Drawing.Size(90, 18);
             this.label2.TabIndex = 77;
             this.label2.Text = "Obervaciones:";
             // 
@@ -161,10 +167,11 @@
             // 
             this.tbxObservaciones.BackColor = System.Drawing.Color.White;
             this.tbxObservaciones.Font = new System.Drawing.Font("Bahnschrift SemiCondensed", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.tbxObservaciones.Location = new System.Drawing.Point(742, 332);
+            this.tbxObservaciones.Location = new System.Drawing.Point(989, 409);
+            this.tbxObservaciones.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.tbxObservaciones.Multiline = true;
             this.tbxObservaciones.Name = "tbxObservaciones";
-            this.tbxObservaciones.Size = new System.Drawing.Size(174, 81);
+            this.tbxObservaciones.Size = new System.Drawing.Size(231, 99);
             this.tbxObservaciones.TabIndex = 76;
             // 
             // cbxEnfermedades
@@ -173,9 +180,10 @@
             this.cbxEnfermedades.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.cbxEnfermedades.Font = new System.Drawing.Font("Bahnschrift SemiCondensed", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.cbxEnfermedades.FormattingEnabled = true;
-            this.cbxEnfermedades.Location = new System.Drawing.Point(742, 272);
+            this.cbxEnfermedades.Location = new System.Drawing.Point(989, 335);
+            this.cbxEnfermedades.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.cbxEnfermedades.Name = "cbxEnfermedades";
-            this.cbxEnfermedades.Size = new System.Drawing.Size(174, 26);
+            this.cbxEnfermedades.Size = new System.Drawing.Size(231, 31);
             this.cbxEnfermedades.TabIndex = 75;
             // 
             // cbxAnimales
@@ -184,9 +192,10 @@
             this.cbxAnimales.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.cbxAnimales.Font = new System.Drawing.Font("Bahnschrift SemiCondensed", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.cbxAnimales.FormattingEnabled = true;
-            this.cbxAnimales.Location = new System.Drawing.Point(742, 212);
+            this.cbxAnimales.Location = new System.Drawing.Point(989, 261);
+            this.cbxAnimales.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.cbxAnimales.Name = "cbxAnimales";
-            this.cbxAnimales.Size = new System.Drawing.Size(174, 26);
+            this.cbxAnimales.Size = new System.Drawing.Size(231, 31);
             this.cbxAnimales.TabIndex = 74;
             // 
             // btnGuardar
@@ -197,10 +206,10 @@
             this.btnGuardar.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnGuardar.Font = new System.Drawing.Font("Bahnschrift SemiCondensed", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnGuardar.ForeColor = System.Drawing.Color.White;
-            this.btnGuardar.Location = new System.Drawing.Point(787, 433);
+            this.btnGuardar.Location = new System.Drawing.Point(1049, 533);
             this.btnGuardar.Margin = new System.Windows.Forms.Padding(0);
             this.btnGuardar.Name = "btnGuardar";
-            this.btnGuardar.Size = new System.Drawing.Size(86, 37);
+            this.btnGuardar.Size = new System.Drawing.Size(115, 46);
             this.btnGuardar.TabIndex = 72;
             this.btnGuardar.Text = "Guardar";
             this.btnGuardar.UseVisualStyleBackColor = false;
@@ -208,9 +217,9 @@
             // 
             // frmEnfermedad
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1000, 580);
+            this.ClientSize = new System.Drawing.Size(1333, 714);
             this.Controls.Add(this.label4);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.label2);
@@ -222,6 +231,7 @@
             this.Controls.Add(this.SaludAnimal);
             this.Controls.Add(this.label1);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
+            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.Name = "frmEnfermedad";
             this.Text = "frmSaludAnimal";
             ((System.ComponentModel.ISupportInitialize)(this.dgvEmfermedades)).EndInit();

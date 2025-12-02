@@ -20,6 +20,11 @@ namespace Negociacion
             return clase_operacion_animal.ListaHectareas();
         }
 
+        public DataTable ListaEstadoEnfermedadAnimal()
+        {
+            return clase_operacion_animal.ListaEstadoEnfermedadAnimal();
+        }
+
         public DataTable ListaLotesAnimales()
         {
             return clase_operacion_animal.ListaLotesAnimales();
@@ -685,5 +690,63 @@ namespace Negociacion
                 throw new Exception($"Error al registrar la salud general y signos clínicos: {ex.Message}", ex);
             }
         }
+
+
+        public bool ModificarEstadoAnimal(int id_animal, int id_tipo_estado_animal)
+        {
+            if (id_animal <= 0)
+                throw new ArgumentException("El parámetro @IDAnimal debe ser un entero positivo mayor que 0");
+
+            if (id_tipo_estado_animal <= 0)
+                throw new ArgumentException("El parámetro @IDTipoEstadoAnimal debe ser un entero positivo mayor que 0");
+
+            try
+            {
+                return clase_operacion_animal.ModificarEstadoAnimal(id_animal, id_tipo_estado_animal);
+            }
+            catch (SqlException ex)
+            {
+                throw new Exception($"Error al modificar el estado del animal (BD): {ex.Message}", ex);
+            }
+            catch (Exception ex)
+            {
+                throw new Exception($"Error al modificar el estado del animal: {ex.Message}", ex);
+            }
+        }
+
+
+        public bool ModificarEnfermedad(int id_enfermedad, int id_animal,
+                                        int id_tipo_enfermedad, string observaciones)
+        {
+            if (id_enfermedad <= 0)
+                throw new ArgumentException("El parámetro @IDEnfermedad debe ser un entero positivo mayor que 0.");
+
+            if (id_animal <= 0)
+                throw new ArgumentException("El parámetro @IDAnimal debe ser un entero positivo mayor que 0.");
+
+            if (id_tipo_enfermedad <= 0)
+                throw new ArgumentException("El parámetro @IDTipoEnfermedad debe ser un entero positivo mayor que 0.");
+
+            if (string.IsNullOrWhiteSpace(observaciones))
+                throw new ArgumentException("El parámetro @ObservacionEnfermedad no puede estar vacío.");
+
+            if (observaciones.Length > 100)
+                throw new ArgumentException("El parámetro @ObservacionEnfermedad no puede superar los 100 caracteres.");
+
+            try
+            {
+                return clase_operacion_animal.ModificarEnfermedad(id_enfermedad, id_animal, id_tipo_enfermedad, observaciones);
+            }
+            catch (SqlException ex)
+            {
+                throw new Exception($"Error al modificar la enfermedad (BD): {ex.Message}", ex);
+            }
+            catch (Exception ex)
+            {
+                throw new Exception($"Error al modificar la enfermedad: {ex.Message}", ex);
+            }
+        }
+
+
     }
 }

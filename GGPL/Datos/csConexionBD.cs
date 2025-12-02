@@ -10,7 +10,7 @@ namespace Datos
 {
     public class csConexionBD
     {
-        static string cadena_conexion = @"Server=192.168.10.50,1433;Database=GGPL; User Id=admin;Password=admin;TrustServerCertificate=True;";
+        static string cadena_conexion = @"Server=100.97.36.79,1433;Database=GGPL; User Id=admin;Password=admin;TrustServerCertificate=True;";
 
         static SqlConnection conexion = new SqlConnection(cadena_conexion);
 

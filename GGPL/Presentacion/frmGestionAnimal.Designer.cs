@@ -51,19 +51,21 @@
             // tbxCodigo
             // 
             this.tbxCodigo.Font = new System.Drawing.Font("Bahnschrift SemiCondensed", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.tbxCodigo.Location = new System.Drawing.Point(45, 121);
+            this.tbxCodigo.Location = new System.Drawing.Point(60, 149);
+            this.tbxCodigo.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.tbxCodigo.MaxLength = 5;
             this.tbxCodigo.Name = "tbxCodigo";
-            this.tbxCodigo.Size = new System.Drawing.Size(190, 27);
+            this.tbxCodigo.Size = new System.Drawing.Size(252, 32);
             this.tbxCodigo.TabIndex = 0;
             // 
             // label1
             // 
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Bahnschrift SemiCondensed", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.Location = new System.Drawing.Point(41, 99);
+            this.label1.Location = new System.Drawing.Point(55, 122);
+            this.label1.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(54, 19);
+            this.label1.Size = new System.Drawing.Size(64, 24);
             this.label1.TabIndex = 1;
             this.label1.Text = "Codigo:";
             // 
@@ -71,9 +73,10 @@
             // 
             this.label2.AutoSize = true;
             this.label2.Font = new System.Drawing.Font("Bahnschrift SemiCondensed", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label2.Location = new System.Drawing.Point(301, 99);
+            this.label2.Location = new System.Drawing.Point(401, 122);
+            this.label2.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(39, 19);
+            this.label2.Size = new System.Drawing.Size(47, 24);
             this.label2.TabIndex = 2;
             this.label2.Text = "Lote:";
             // 
@@ -81,9 +84,10 @@
             // 
             this.label3.AutoSize = true;
             this.label3.Font = new System.Drawing.Font("Bahnschrift SemiCondensed", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label3.Location = new System.Drawing.Point(301, 173);
+            this.label3.Location = new System.Drawing.Point(401, 213);
+            this.label3.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(44, 19);
+            this.label3.Size = new System.Drawing.Size(51, 24);
             this.label3.TabIndex = 3;
             this.label3.Text = "Raza:";
             // 
@@ -93,18 +97,20 @@
             this.cbxRaza.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.cbxRaza.Font = new System.Drawing.Font("Bahnschrift SemiCondensed", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.cbxRaza.FormattingEnabled = true;
-            this.cbxRaza.Location = new System.Drawing.Point(300, 195);
+            this.cbxRaza.Location = new System.Drawing.Point(400, 240);
+            this.cbxRaza.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.cbxRaza.Name = "cbxRaza";
-            this.cbxRaza.Size = new System.Drawing.Size(190, 27);
+            this.cbxRaza.Size = new System.Drawing.Size(252, 32);
             this.cbxRaza.TabIndex = 5;
             // 
             // label4
             // 
             this.label4.AutoSize = true;
             this.label4.Font = new System.Drawing.Font("Bahnschrift SemiCondensed", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label4.Location = new System.Drawing.Point(41, 173);
+            this.label4.Location = new System.Drawing.Point(55, 213);
+            this.label4.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(41, 19);
+            this.label4.Size = new System.Drawing.Size(51, 24);
             this.label4.TabIndex = 6;
             this.label4.Text = "Sexo:";
             // 
@@ -117,18 +123,20 @@
             this.cbxSexo.Items.AddRange(new object[] {
             "M",
             "H"});
-            this.cbxSexo.Location = new System.Drawing.Point(45, 195);
+            this.cbxSexo.Location = new System.Drawing.Point(60, 240);
+            this.cbxSexo.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.cbxSexo.Name = "cbxSexo";
-            this.cbxSexo.Size = new System.Drawing.Size(190, 27);
+            this.cbxSexo.Size = new System.Drawing.Size(252, 32);
             this.cbxSexo.TabIndex = 7;
             // 
             // label5
             // 
             this.label5.AutoSize = true;
             this.label5.Font = new System.Drawing.Font("Bahnschrift SemiCondensed", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label5.Location = new System.Drawing.Point(44, 251);
+            this.label5.Location = new System.Drawing.Point(59, 309);
+            this.label5.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(143, 19);
+            this.label5.Size = new System.Drawing.Size(174, 24);
             this.label5.TabIndex = 8;
             this.label5.Text = "Fecha de Nacimiento:";
             // 
@@ -136,9 +144,10 @@
             // 
             this.lbEstado.AutoSize = true;
             this.lbEstado.Font = new System.Drawing.Font("Bahnschrift SemiCondensed", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lbEstado.Location = new System.Drawing.Point(301, 253);
+            this.lbEstado.Location = new System.Drawing.Point(401, 311);
+            this.lbEstado.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.lbEstado.Name = "lbEstado";
-            this.lbEstado.Size = new System.Drawing.Size(127, 19);
+            this.lbEstado.Size = new System.Drawing.Size(152, 24);
             this.lbEstado.TabIndex = 12;
             this.lbEstado.Text = "Estado del Animal:";
             // 
@@ -148,9 +157,10 @@
             this.cbxLote.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.cbxLote.Font = new System.Drawing.Font("Bahnschrift SemiCondensed", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.cbxLote.FormattingEnabled = true;
-            this.cbxLote.Location = new System.Drawing.Point(300, 121);
+            this.cbxLote.Location = new System.Drawing.Point(400, 149);
+            this.cbxLote.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.cbxLote.Name = "cbxLote";
-            this.cbxLote.Size = new System.Drawing.Size(190, 27);
+            this.cbxLote.Size = new System.Drawing.Size(252, 32);
             this.cbxLote.TabIndex = 13;
             // 
             // label7
@@ -160,9 +170,10 @@
             this.label7.Font = new System.Drawing.Font("Bahnschrift SemiCondensed", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label7.ForeColor = System.Drawing.Color.White;
             this.label7.Location = new System.Drawing.Point(0, 0);
+            this.label7.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label7.Name = "label7";
-            this.label7.Padding = new System.Windows.Forms.Padding(20, 20, 328, 20);
-            this.label7.Size = new System.Drawing.Size(536, 65);
+            this.label7.Padding = new System.Windows.Forms.Padding(27, 25, 437, 25);
+            this.label7.Size = new System.Drawing.Size(702, 83);
             this.label7.TabIndex = 14;
             this.label7.Text = "Registro de Animales";
             this.label7.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -170,9 +181,10 @@
             // label8
             // 
             this.label8.AutoSize = true;
-            this.label8.Location = new System.Drawing.Point(35, 40);
+            this.label8.Location = new System.Drawing.Point(47, 49);
+            this.label8.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label8.Name = "label8";
-            this.label8.Size = new System.Drawing.Size(0, 13);
+            this.label8.Size = new System.Drawing.Size(0, 16);
             this.label8.TabIndex = 15;
             // 
             // btnGuardar
@@ -183,10 +195,10 @@
             this.btnGuardar.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnGuardar.Font = new System.Drawing.Font("Bahnschrift SemiCondensed", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnGuardar.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.btnGuardar.Location = new System.Drawing.Point(404, 341);
+            this.btnGuardar.Location = new System.Drawing.Point(539, 420);
             this.btnGuardar.Margin = new System.Windows.Forms.Padding(0);
             this.btnGuardar.Name = "btnGuardar";
-            this.btnGuardar.Size = new System.Drawing.Size(86, 37);
+            this.btnGuardar.Size = new System.Drawing.Size(115, 46);
             this.btnGuardar.TabIndex = 18;
             this.btnGuardar.Text = "Guardar";
             this.btnGuardar.UseVisualStyleBackColor = false;
@@ -200,10 +212,10 @@
             this.btnCancelar.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnCancelar.Font = new System.Drawing.Font("Bahnschrift SemiCondensed", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnCancelar.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.btnCancelar.Location = new System.Drawing.Point(305, 341);
+            this.btnCancelar.Location = new System.Drawing.Point(407, 420);
             this.btnCancelar.Margin = new System.Windows.Forms.Padding(0);
             this.btnCancelar.Name = "btnCancelar";
-            this.btnCancelar.Size = new System.Drawing.Size(86, 37);
+            this.btnCancelar.Size = new System.Drawing.Size(115, 46);
             this.btnCancelar.TabIndex = 19;
             this.btnCancelar.Text = "Cancelar";
             this.btnCancelar.UseVisualStyleBackColor = false;
@@ -215,45 +227,49 @@
             this.cbxEstadoAnimal.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.cbxEstadoAnimal.Font = new System.Drawing.Font("Bahnschrift SemiCondensed", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.cbxEstadoAnimal.FormattingEnabled = true;
-            this.cbxEstadoAnimal.Location = new System.Drawing.Point(300, 275);
+            this.cbxEstadoAnimal.Location = new System.Drawing.Point(400, 338);
+            this.cbxEstadoAnimal.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.cbxEstadoAnimal.Name = "cbxEstadoAnimal";
-            this.cbxEstadoAnimal.Size = new System.Drawing.Size(190, 27);
+            this.cbxEstadoAnimal.Size = new System.Drawing.Size(252, 32);
             this.cbxEstadoAnimal.TabIndex = 20;
             // 
             // dtpFechaNacimiento
             // 
             this.dtpFechaNacimiento.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.dtpFechaNacimiento.Format = System.Windows.Forms.DateTimePickerFormat.Short;
-            this.dtpFechaNacimiento.Location = new System.Drawing.Point(48, 273);
+            this.dtpFechaNacimiento.Location = new System.Drawing.Point(64, 336);
+            this.dtpFechaNacimiento.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.dtpFechaNacimiento.Name = "dtpFechaNacimiento";
-            this.dtpFechaNacimiento.Size = new System.Drawing.Size(187, 26);
+            this.dtpFechaNacimiento.Size = new System.Drawing.Size(248, 30);
             this.dtpFechaNacimiento.TabIndex = 21;
             // 
             // lbPrecio
             // 
             this.lbPrecio.AutoSize = true;
             this.lbPrecio.Font = new System.Drawing.Font("Bahnschrift SemiCondensed", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lbPrecio.Location = new System.Drawing.Point(44, 319);
+            this.lbPrecio.Location = new System.Drawing.Point(59, 393);
+            this.lbPrecio.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.lbPrecio.Name = "lbPrecio";
-            this.lbPrecio.Size = new System.Drawing.Size(51, 19);
+            this.lbPrecio.Size = new System.Drawing.Size(63, 24);
             this.lbPrecio.TabIndex = 23;
             this.lbPrecio.Text = "Precio:";
             // 
             // tbxPrecio
             // 
             this.tbxPrecio.Font = new System.Drawing.Font("Bahnschrift SemiCondensed", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.tbxPrecio.Location = new System.Drawing.Point(48, 341);
+            this.tbxPrecio.Location = new System.Drawing.Point(64, 420);
+            this.tbxPrecio.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.tbxPrecio.MaxLength = 20;
             this.tbxPrecio.Name = "tbxPrecio";
-            this.tbxPrecio.Size = new System.Drawing.Size(190, 27);
+            this.tbxPrecio.Size = new System.Drawing.Size(252, 32);
             this.tbxPrecio.TabIndex = 22;
             // 
             // frmGestionAnimal
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.Beige;
-            this.ClientSize = new System.Drawing.Size(536, 407);
+            this.ClientSize = new System.Drawing.Size(715, 501);
             this.Controls.Add(this.lbPrecio);
             this.Controls.Add(this.tbxPrecio);
             this.Controls.Add(this.dtpFechaNacimiento);
@@ -273,6 +289,7 @@
             this.Controls.Add(this.label1);
             this.Controls.Add(this.tbxCodigo);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
+            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.Name = "frmGestionAnimal";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "frmAgregarAnimales";

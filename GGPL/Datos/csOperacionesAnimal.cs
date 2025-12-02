@@ -459,8 +459,8 @@ namespace Datos
             return resultado;
         }
 
-        public bool ModificarEnfermedad(int id_enfermedad, string nombre_enfermedad,
-                                        int id_tipo_enfermedad)
+        public bool ModificarEnfermedad(int id_enfermedad, int id_animal,
+                                        int id_tipo_enfermedad, string observaciones)
         {
             const string sp = "SP_UpdateEnfermedad";
             bool resultado;
@@ -469,10 +469,10 @@ namespace Datos
             using (SqlCommand comando = new SqlCommand(sp, cn))
             {
                 comando.CommandType = CommandType.StoredProcedure;
-
                 comando.Parameters.AddWithValue("@IDEnfermedad", id_enfermedad);
-                comando.Parameters.AddWithValue("@NombreEnfermedad", nombre_enfermedad);
+                comando.Parameters.AddWithValue("@AnimalIDAnimal", id_animal);
                 comando.Parameters.AddWithValue("@TipoEnfermedadIDTipoEnfermedad", id_tipo_enfermedad);
+                comando.Parameters.AddWithValue("@ObservacionEnfermedad", observaciones);
 
                 SqlParameter salida = new SqlParameter("@Resultado", SqlDbType.Bit)
                 { Direction = ParameterDirection.Output };
@@ -1674,5 +1674,48 @@ namespace Datos
 
             return resultado;
         }
+
+        public bool ModificarEstadoAnimal(int id_animal, int id_tipo_estado_animal)
+        {
+            const string sp = "SP_UpdateEstadoAnimal";
+            bool resultado = false;
+
+            using (SqlConnection cn = csConexionBD.ObtenerConexion())
+            using (SqlCommand comando = new SqlCommand(sp, cn))
+            {
+                comando.CommandType = CommandType.StoredProcedure;
+
+                comando.Parameters.AddWithValue("@IDAnimal", id_animal);
+                comando.Parameters.AddWithValue("@TipoEstadoAnimalIDTipoEstadoAnimal", id_tipo_estado_animal);
+
+                SqlParameter salida = new SqlParameter("@Resultado", SqlDbType.Bit)
+                { Direction = ParameterDirection.Output };
+                comando.Parameters.Add(salida);
+
+                comando.ExecuteNonQuery();
+
+                if (salida.Value != DBNull.Value)
+                    resultado = (bool)salida.Value;
+            }
+
+            return resultado;
+        }
+
+        public DataTable ListaEstadoEnfermedadAnimal()
+        {
+            const string sp = "SP_V_EstadoEnfermoAnimal";
+            DataTable tabla = new DataTable();
+
+            using (SqlConnection cn = csConexionBD.ObtenerConexion())
+            using (SqlCommand cmd = new SqlCommand(sp, cn))
+            using (SqlDataAdapter da = new SqlDataAdapter(cmd))
+            {
+                cmd.CommandType = CommandType.StoredProcedure;
+                da.Fill(tabla);
+            }
+
+            return tabla;
+        }
+
     }
 }

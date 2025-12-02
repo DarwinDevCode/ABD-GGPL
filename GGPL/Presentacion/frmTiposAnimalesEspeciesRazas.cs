@@ -33,15 +33,15 @@ namespace Presentacion
 
         public void MostrarTipos()
         {
-            clase_general.AjustarTabla(dgvTipoAnimales, clase_modulo_animal.ListaTiposAnimales());
-            clase_general.AjustarTabla(dgvTipoEspecies, clase_modulo_animal.ListaTiposEspecies());
-            clase_general.AjustarTabla(dgvTipoRazas, clase_modulo_animal.ListaTiposRazas());
+            //clase_general.AjustarTabla(dgvTipoAnimales, clase_modulo_animal.ListaTiposAnimales());
+            //clase_general.AjustarTabla(dgvTipoEspecies, clase_modulo_animal.ListaTiposEspecies());
+            //clase_general.AjustarTabla(dgvTipoRazas, clase_modulo_animal.ListaTiposRazas());
         }
 
         public void CargarCombobox()
         {
-            clase_general.RellenarLista(cbxAnimal, clase_modulo_animal.ListaTiposAnimales());
-            clase_general.RellenarLista(cbxEspecie, clase_modulo_animal.ListaTiposEspeciesCombobox());
+            //clase_general.RellenarLista(cbxAnimal, clase_modulo_animal.ListaTiposAnimales());
+            //clase_general.RellenarLista(cbxEspecie, clase_modulo_animal.ListaTiposEspeciesCombobox());
         }
 
         private void btnGuardar01_Click(object sender, EventArgs e)
