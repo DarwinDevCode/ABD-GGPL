@@ -1,0 +1,48 @@
+C:\Users\Khriz\Desktop\Proyecto BD y MS\repository-GGPL\Datos\bin\Debug\Datos.dll
+C:\Users\Khriz\Desktop\Proyecto BD y MS\repository-GGPL\Datos\bin\Debug\Datos.pdb
+C:\Users\Khriz\Desktop\Proyecto BD y MS\repository-GGPL\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+C:\Users\Khriz\Desktop\Proyecto BD y MS\repository-GGPL\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\Khriz\Desktop\Proyecto BD y MS\repository-GGPL\Datos\obj\Debug\Datos.dll
+C:\Users\Khriz\Desktop\Proyecto BD y MS\repository-GGPL\Datos\obj\Debug\Datos.pdb
+C:\Users\Empresa\Documents\repository-GGPL\Datos\bin\Debug\Datos.dll
+C:\Users\Empresa\Documents\repository-GGPL\Datos\bin\Debug\Datos.pdb
+C:\Users\Empresa\Documents\repository-GGPL\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+C:\Users\Empresa\Documents\repository-GGPL\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\Empresa\Documents\repository-GGPL\Datos\obj\Debug\Datos.dll
+C:\Users\Empresa\Documents\repository-GGPL\Datos\obj\Debug\Datos.pdb
+C:\Users\Khriz\Downloads\repository-GGPL\repository-GGPL\Datos\bin\Debug\Datos.dll
+C:\Users\Khriz\Downloads\repository-GGPL\repository-GGPL\Datos\bin\Debug\Datos.pdb
+C:\Users\Khriz\Downloads\repository-GGPL\repository-GGPL\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+C:\Users\Khriz\Downloads\repository-GGPL\repository-GGPL\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\Khriz\Downloads\repository-GGPL\repository-GGPL\Datos\obj\Debug\Datos.dll
+C:\Users\Khriz\Downloads\repository-GGPL\repository-GGPL\Datos\obj\Debug\Datos.pdb
+C:\Users\Khriz\Desktop\repository-GGPL\repository-GGPL\Datos\bin\Debug\Datos.dll
+C:\Users\Khriz\Desktop\repository-GGPL\repository-GGPL\Datos\bin\Debug\Datos.pdb
+C:\Users\Khriz\Desktop\repository-GGPL\repository-GGPL\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+C:\Users\Khriz\Desktop\repository-GGPL\repository-GGPL\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\Khriz\Desktop\repository-GGPL\repository-GGPL\Datos\obj\Debug\Datos.dll
+C:\Users\Khriz\Desktop\repository-GGPL\repository-GGPL\Datos\obj\Debug\Datos.pdb
+C:\Users\Khriz\Desktop\repository-GGPL\Datos\bin\Debug\Datos.dll
+C:\Users\Khriz\Desktop\repository-GGPL\Datos\bin\Debug\Datos.pdb
+C:\Users\Khriz\Desktop\repository-GGPL\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+C:\Users\Khriz\Desktop\repository-GGPL\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\Khriz\Desktop\repository-GGPL\Datos\obj\Debug\Datos.dll
+C:\Users\Khriz\Desktop\repository-GGPL\Datos\obj\Debug\Datos.pdb
+C:\Users\Empresa\Downloads\repository-GGPL\repository-GGPL\Datos\bin\Debug\Datos.dll
+C:\Users\Empresa\Downloads\repository-GGPL\repository-GGPL\Datos\bin\Debug\Datos.pdb
+C:\Users\Empresa\Downloads\repository-GGPL\repository-GGPL\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+C:\Users\Empresa\Downloads\repository-GGPL\repository-GGPL\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\Empresa\Downloads\repository-GGPL\repository-GGPL\Datos\obj\Debug\Datos.dll
+C:\Users\Empresa\Downloads\repository-GGPL\repository-GGPL\Datos\obj\Debug\Datos.pdb
+C:\Users\Empresa\Desktop\repository-GGPL\Datos\bin\Debug\Datos.dll
+C:\Users\Empresa\Desktop\repository-GGPL\Datos\bin\Debug\Datos.pdb
+C:\Users\Empresa\Desktop\repository-GGPL\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+C:\Users\Empresa\Desktop\repository-GGPL\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\Empresa\Desktop\repository-GGPL\Datos\obj\Debug\Datos.dll
+C:\Users\Empresa\Desktop\repository-GGPL\Datos\obj\Debug\Datos.pdb
+C:\Users\Darwin Sánchez\Downloads\GGPL\GGPL\Datos\bin\Debug\Datos.dll
+C:\Users\Darwin Sánchez\Downloads\GGPL\GGPL\Datos\bin\Debug\Datos.pdb
+C:\Users\Darwin Sánchez\Downloads\GGPL\GGPL\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+C:\Users\Darwin Sánchez\Downloads\GGPL\GGPL\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\Darwin Sánchez\Downloads\GGPL\GGPL\Datos\obj\Debug\Datos.dll
+C:\Users\Darwin Sánchez\Downloads\GGPL\GGPL\Datos\obj\Debug\Datos.pdb

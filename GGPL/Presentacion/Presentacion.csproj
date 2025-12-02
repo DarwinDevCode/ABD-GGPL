@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{FBBD80D3-08A2-4F8D-9E77-ECB8915948E3}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Presentacion</RootNamespace>
+    <AssemblyName>Presentacion</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="csGeneral.cs" />
+    <Compile Include="frmAnimales.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAnimales.Designer.cs">
+      <DependentUpon>frmAnimales.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCompra.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCompra.Designer.cs">
+      <DependentUpon>frmCompra.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmGestionAnimal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmGestionAnimal.Designer.cs">
+      <DependentUpon>frmGestionAnimal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmGestionCompra.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmGestionCompra.Designer.cs">
+      <DependentUpon>frmGestionCompra.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmGestionLoteInsumos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmGestionLoteInsumos.Designer.cs">
+      <DependentUpon>frmGestionLoteInsumos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmGestionProduccionLeche.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmGestionProduccionLeche.Designer.cs">
+      <DependentUpon>frmGestionProduccionLeche.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmGestionHectareas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmGestionHectareas.Designer.cs">
+      <DependentUpon>frmGestionHectareas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmGestionLoteAnimales.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmGestionLoteAnimales.Designer.cs">
+      <DependentUpon>frmGestionLoteAnimales.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmGestionSaludAnimal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmGestionSaludAnimal.Designer.cs">
+      <DependentUpon>frmGestionSaludAnimal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmGestionUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmGestionUsuario.Designer.cs">
+      <DependentUpon>frmGestionUsuario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmGestionVenta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmGestionVenta.Designer.cs">
+      <DependentUpon>frmGestionVenta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmHectareas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmHectareas.Designer.cs">
+      <DependentUpon>frmHectareas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLogin.Designer.cs">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmLotesAnimalesInsumos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLotesAnimalesInsumos.Designer.cs">
+      <DependentUpon>frmLotesAnimalesInsumos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPantallaPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPantallaPrincipal.Designer.cs">
+      <DependentUpon>frmPantallaPrincipal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmProduccionLechera.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmProduccionLechera.Designer.cs">
+      <DependentUpon>frmProduccionLechera.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmResumen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmResumen.Designer.cs">
+      <DependentUpon>frmResumen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmEnfermedad.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEnfermedad.Designer.cs">
+      <DependentUpon>frmEnfermedad.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmSaludAnimal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSaludAnimal.Designer.cs">
+      <DependentUpon>frmSaludAnimal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmSeleccionarAnimales.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSeleccionarAnimales.Designer.cs">
+      <DependentUpon>frmSeleccionarAnimales.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmTiposAnimalesEspeciesRazas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTiposAnimalesEspeciesRazas.Designer.cs">
+      <DependentUpon>frmTiposAnimalesEspeciesRazas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmTipoMedicamento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTipoMedicamento.Designer.cs">
+      <DependentUpon>frmTipoMedicamento.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmTipoVacuna.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTipoVacuna.Designer.cs">
+      <DependentUpon>frmTipoVacuna.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmUsuario.Designer.cs">
+      <DependentUpon>frmUsuario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmVenta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmVenta.Designer.cs">
+      <DependentUpon>frmVenta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Negociacion\Negociacion.csproj">
+      <Project>{2bfae621-9298-4c72-901a-0873e9d4c4c8}</Project>
+      <Name>Negociacion</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="frmAnimales.resx">
+      <DependentUpon>frmAnimales.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCompra.resx">
+      <DependentUpon>frmCompra.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmGestionAnimal.resx">
+      <DependentUpon>frmGestionAnimal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmGestionCompra.resx">
+      <DependentUpon>frmGestionCompra.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmGestionLoteInsumos.resx">
+      <DependentUpon>frmGestionLoteInsumos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmGestionProduccionLeche.resx">
+      <DependentUpon>frmGestionProduccionLeche.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmGestionHectareas.resx">
+      <DependentUpon>frmGestionHectareas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmGestionLoteAnimales.resx">
+      <DependentUpon>frmGestionLoteAnimales.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmGestionSaludAnimal.resx">
+      <DependentUpon>frmGestionSaludAnimal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmGestionUsuario.resx">
+      <DependentUpon>frmGestionUsuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmGestionVenta.resx">
+      <DependentUpon>frmGestionVenta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmHectareas.resx">
+      <DependentUpon>frmHectareas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLogin.resx">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLotesAnimalesInsumos.resx">
+      <DependentUpon>frmLotesAnimalesInsumos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPantallaPrincipal.resx">
+      <DependentUpon>frmPantallaPrincipal.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmProduccionLechera.resx">
+      <DependentUpon>frmProduccionLechera.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmResumen.resx">
+      <DependentUpon>frmResumen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEnfermedad.resx">
+      <DependentUpon>frmEnfermedad.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSaludAnimal.resx">
+      <DependentUpon>frmSaludAnimal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSeleccionarAnimales.resx">
+      <DependentUpon>frmSeleccionarAnimales.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTiposAnimalesEspeciesRazas.resx">
+      <DependentUpon>frmTiposAnimalesEspeciesRazas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTipoMedicamento.resx">
+      <DependentUpon>frmTipoMedicamento.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTipoVacuna.resx">
+      <DependentUpon>frmTipoVacuna.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmUsuario.resx">
+      <DependentUpon>frmUsuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmVenta.resx">
+      <DependentUpon>frmVenta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Logo.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

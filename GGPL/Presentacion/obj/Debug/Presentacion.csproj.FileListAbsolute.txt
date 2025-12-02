@@ -1,0 +1,404 @@
+C:\Users\Khriz\Desktop\Proyecto BD y MS\Presentacion\bin\Debug\Presentacion.dll
+C:\Users\Khriz\Desktop\Proyecto BD y MS\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\Khriz\Desktop\Proyecto BD y MS\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\Khriz\Desktop\Proyecto BD y MS\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Khriz\Desktop\Proyecto BD y MS\Presentacion\obj\Debug\Presentacion.dll
+C:\Users\Khriz\Desktop\Proyecto BD y MS\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\Khriz\Desktop\Proyecto BD y MS\repository-GGPL\Presentacion\bin\Debug\Presentacion.dll
+C:\Users\Khriz\Desktop\Proyecto BD y MS\repository-GGPL\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\Khriz\Desktop\Proyecto BD y MS\repository-GGPL\Presentacion\bin\Debug\Negociacion.dll
+C:\Users\Khriz\Desktop\Proyecto BD y MS\repository-GGPL\Presentacion\bin\Debug\Negociacion.pdb
+C:\Users\Khriz\Desktop\Proyecto BD y MS\repository-GGPL\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\Khriz\Desktop\Proyecto BD y MS\repository-GGPL\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Khriz\Desktop\Proyecto BD y MS\repository-GGPL\Presentacion\obj\Debug\Presenta.BC77CD05.Up2Date
+C:\Users\Khriz\Desktop\Proyecto BD y MS\repository-GGPL\Presentacion\obj\Debug\Presentacion.dll
+C:\Users\Khriz\Desktop\Proyecto BD y MS\repository-GGPL\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\Empresa\Documents\Copia Repositorio - GGPL\repository-GGPL\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\Empresa\Documents\Copia Repositorio - GGPL\repository-GGPL\Presentacion\obj\Debug\Presentacion.frmPantallaPrincipal.resources
+C:\Users\Empresa\Documents\Copia Repositorio - GGPL\repository-GGPL\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\Empresa\Documents\Copia Repositorio - GGPL\repository-GGPL\Presentacion\obj\Debug\Presentacion.dll
+C:\Users\Empresa\Documents\Copia Repositorio - GGPL\repository-GGPL\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\Empresa\Documents\Copia Repositorio - GGPL\repository-GGPL\Presentacion\bin\Debug\Presentacion.dll
+C:\Users\Empresa\Documents\Copia Repositorio - GGPL\repository-GGPL\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\Empresa\Documents\Copia Repositorio - GGPL\repository-GGPL\Presentacion\bin\Debug\Negociacion.dll
+C:\Users\Empresa\Documents\Copia Repositorio - GGPL\repository-GGPL\Presentacion\bin\Debug\Negociacion.pdb
+C:\Users\Empresa\Documents\Copia Repositorio - GGPL\repository-GGPL\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\Empresa\Documents\Copia Repositorio - GGPL\repository-GGPL\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Empresa\Documents\Copia Repositorio - GGPL\repository-GGPL\Presentacion\obj\Debug\Presenta.BC77CD05.Up2Date
+C:\Users\Empresa\Documents\Copia Repositorio - GGPL\repository-GGPL\Presentacion\obj\Debug\Presentacion.frmLogin.resources
+C:\Users\Empresa\Documents\Copia Repositorio - GGPL\repository-GGPL\Presentacion\obj\Debug\Presentacion.frmGestionAnimal.resources
+C:\Users\Empresa\Documents\Copia Repositorio - GGPL\repository-GGPL\Presentacion\obj\Debug\Presentacion.frmGestionDistribuidor.resources
+C:\Users\Empresa\Documents\Copia Repositorio - GGPL\repository-GGPL\Presentacion\obj\Debug\Presentacion.frmGestionSaludAnimal.resources
+C:\Users\Empresa\Documents\Copia Repositorio - GGPL\repository-GGPL\Presentacion\obj\Debug\Presentacion.frmGestionEspecieAnimal.resources
+C:\Users\Empresa\Documents\Copia Repositorio - GGPL\repository-GGPL\Presentacion\obj\Debug\Presentacion.frmGestionHectareas.resources
+C:\Users\Empresa\Documents\Copia Repositorio - GGPL\repository-GGPL\Presentacion\obj\Debug\Presentacion.frmGestionLotes.resources
+C:\Users\Empresa\Documents\Copia Repositorio - GGPL\repository-GGPL\Presentacion\obj\Debug\Presentacion.frmGestionRazaAnimal.resources
+C:\Users\Empresa\Documents\Copia Repositorio - GGPL\repository-GGPL\Presentacion\obj\Debug\Presentacion.GestionTipoAnimal.resources
+C:\Users\Empresa\Documents\Copia Repositorio - GGPL\repository-GGPL\Presentacion\obj\Debug\Presentacion.frmGestionCiudades.resources
+C:\Users\Empresa\Documents\Copia Repositorio - GGPL\repository-GGPL\Presentacion\obj\Debug\Presentacion.frmGestionPaises.resources
+C:\Users\Empresa\Documents\Copia Repositorio - GGPL\repository-GGPL\Presentacion\obj\Debug\Presentacion.frmGestionProvincias.resources
+C:\Users\Empresa\Documents\Copia Repositorio - GGPL\repository-GGPL\Presentacion\obj\Debug\Presentacion.frmGestionTipoIdentificacion.resources
+C:\Users\Empresa\Documents\Copia Repositorio - GGPL\repository-GGPL\Presentacion\obj\Debug\Presentacion.frmGestionTipoMedicamento.resources
+C:\Users\Empresa\Documents\Copia Repositorio - GGPL\repository-GGPL\Presentacion\obj\Debug\Presentacion.frmTipoLoteInsumo.resources
+C:\Users\Khriz\Desktop\Proyecto BD y MS\repository-GGPL\Presentacion\obj\Debug\Presentacion.frmGestionAnimal.resources
+C:\Users\Khriz\Desktop\Proyecto BD y MS\repository-GGPL\Presentacion\obj\Debug\Presentacion.frmGestionCiudades.resources
+C:\Users\Khriz\Desktop\Proyecto BD y MS\repository-GGPL\Presentacion\obj\Debug\Presentacion.frmGestionDistribuidor.resources
+C:\Users\Khriz\Desktop\Proyecto BD y MS\repository-GGPL\Presentacion\obj\Debug\Presentacion.frmGestionPaises.resources
+C:\Users\Khriz\Desktop\Proyecto BD y MS\repository-GGPL\Presentacion\obj\Debug\Presentacion.frmGestionProvincias.resources
+C:\Users\Khriz\Desktop\Proyecto BD y MS\repository-GGPL\Presentacion\obj\Debug\Presentacion.frmGestionSaludAnimal.resources
+C:\Users\Khriz\Desktop\Proyecto BD y MS\repository-GGPL\Presentacion\obj\Debug\Presentacion.frmGestionEspecieAnimal.resources
+C:\Users\Khriz\Desktop\Proyecto BD y MS\repository-GGPL\Presentacion\obj\Debug\Presentacion.frmGestionHectareas.resources
+C:\Users\Khriz\Desktop\Proyecto BD y MS\repository-GGPL\Presentacion\obj\Debug\Presentacion.frmGestionLotes.resources
+C:\Users\Khriz\Desktop\Proyecto BD y MS\repository-GGPL\Presentacion\obj\Debug\Presentacion.frmGestionRazaAnimal.resources
+C:\Users\Khriz\Desktop\Proyecto BD y MS\repository-GGPL\Presentacion\obj\Debug\Presentacion.frmGestionTipoIdentificacion.resources
+C:\Users\Khriz\Desktop\Proyecto BD y MS\repository-GGPL\Presentacion\obj\Debug\Presentacion.frmGestionTipoMedicamento.resources
+C:\Users\Khriz\Desktop\Proyecto BD y MS\repository-GGPL\Presentacion\obj\Debug\Presentacion.frmLogin.resources
+C:\Users\Khriz\Desktop\Proyecto BD y MS\repository-GGPL\Presentacion\obj\Debug\Presentacion.frmPantallaPrincipal.resources
+C:\Users\Khriz\Desktop\Proyecto BD y MS\repository-GGPL\Presentacion\obj\Debug\Presentacion.frmTipoLoteInsumo.resources
+C:\Users\Khriz\Desktop\Proyecto BD y MS\repository-GGPL\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\Khriz\Desktop\Proyecto BD y MS\repository-GGPL\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\Empresa\Documents\repository-GGPL\Presentacion\bin\Debug\Presentacion.dll
+C:\Users\Empresa\Documents\repository-GGPL\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\Empresa\Documents\repository-GGPL\Presentacion\bin\Debug\Negociacion.dll
+C:\Users\Empresa\Documents\repository-GGPL\Presentacion\bin\Debug\Negociacion.pdb
+C:\Users\Empresa\Documents\repository-GGPL\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\Empresa\Documents\repository-GGPL\Presentacion\obj\Debug\Presentacion.frmGestionAnimal.resources
+C:\Users\Empresa\Documents\repository-GGPL\Presentacion\obj\Debug\Presentacion.frmGestionCiudades.resources
+C:\Users\Empresa\Documents\repository-GGPL\Presentacion\obj\Debug\Presentacion.frmGestionDistribuidor.resources
+C:\Users\Empresa\Documents\repository-GGPL\Presentacion\obj\Debug\Presentacion.frmGestionPaises.resources
+C:\Users\Empresa\Documents\repository-GGPL\Presentacion\obj\Debug\Presentacion.frmGestionProvincias.resources
+C:\Users\Empresa\Documents\repository-GGPL\Presentacion\obj\Debug\Presentacion.frmGestionSaludAnimal.resources
+C:\Users\Empresa\Documents\repository-GGPL\Presentacion\obj\Debug\Presentacion.frmGestionEspecieAnimal.resources
+C:\Users\Empresa\Documents\repository-GGPL\Presentacion\obj\Debug\Presentacion.frmGestionHectareas.resources
+C:\Users\Empresa\Documents\repository-GGPL\Presentacion\obj\Debug\Presentacion.frmGestionLotes.resources
+C:\Users\Empresa\Documents\repository-GGPL\Presentacion\obj\Debug\Presentacion.frmGestionRazaAnimal.resources
+C:\Users\Empresa\Documents\repository-GGPL\Presentacion\obj\Debug\Presentacion.frmGestionTipoIdentificacion.resources
+C:\Users\Empresa\Documents\repository-GGPL\Presentacion\obj\Debug\Presentacion.frmGestionTipoMedicamento.resources
+C:\Users\Empresa\Documents\repository-GGPL\Presentacion\obj\Debug\Presentacion.frmLogin.resources
+C:\Users\Empresa\Documents\repository-GGPL\Presentacion\obj\Debug\Presentacion.frmPantallaPrincipal.resources
+C:\Users\Empresa\Documents\repository-GGPL\Presentacion\obj\Debug\Presentacion.frmTipoLoteInsumo.resources
+C:\Users\Empresa\Documents\repository-GGPL\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\Empresa\Documents\repository-GGPL\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\Empresa\Documents\repository-GGPL\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Empresa\Documents\repository-GGPL\Presentacion\obj\Debug\Presenta.BC77CD05.Up2Date
+C:\Users\Empresa\Documents\repository-GGPL\Presentacion\obj\Debug\Presentacion.dll
+C:\Users\Empresa\Documents\repository-GGPL\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\Empresa\Documents\repository-GGPL\Presentacion\obj\Debug\Presentacion.frmCiudades.resources
+C:\Users\Empresa\Documents\repository-GGPL\Presentacion\obj\Debug\Presentacion.frmProvincias.resources
+C:\Users\Empresa\Documents\repository-GGPL\Presentacion\obj\Debug\Presentacion.frmDistribuidor.resources
+C:\Users\Empresa\Documents\repository-GGPL\Presentacion\obj\Debug\Presentacion.frmEspecieAnimal.resources
+C:\Users\Empresa\Documents\repository-GGPL\Presentacion\obj\Debug\Presentacion.frmHectareas.resources
+C:\Users\Empresa\Documents\repository-GGPL\Presentacion\obj\Debug\Presentacion.frmLoteInsumo.resources
+C:\Users\Empresa\Documents\repository-GGPL\Presentacion\obj\Debug\Presentacion.frmLotes.resources
+C:\Users\Empresa\Documents\repository-GGPL\Presentacion\obj\Debug\Presentacion.frmPaises.resources
+C:\Users\Empresa\Documents\repository-GGPL\Presentacion\obj\Debug\Presentacion.frmRazas.resources
+C:\Users\Empresa\Documents\repository-GGPL\Presentacion\obj\Debug\Presentacion.frmTipoMedicamento.resources
+C:\Users\Empresa\Documents\repository-GGPL\Presentacion\obj\Debug\Presentacion.frmTipoVacuna.resources
+C:\Users\Empresa\Documents\repository-GGPL\Presentacion\obj\Debug\Presentacion.frmTipoAnimal.resources
+C:\Users\Empresa\Documents\repository-GGPL\Presentacion\obj\Debug\Presentacion.frmGestionTipoAnimal.resources
+C:\Users\Khriz\Desktop\Proyecto BD y MS\repository-GGPL\Presentacion\obj\Debug\Presentacion.frmCiudades.resources
+C:\Users\Khriz\Desktop\Proyecto BD y MS\repository-GGPL\Presentacion\obj\Debug\Presentacion.frmDistribuidor.resources
+C:\Users\Khriz\Desktop\Proyecto BD y MS\repository-GGPL\Presentacion\obj\Debug\Presentacion.frmEspecieAnimal.resources
+C:\Users\Khriz\Desktop\Proyecto BD y MS\repository-GGPL\Presentacion\obj\Debug\Presentacion.frmHectareas.resources
+C:\Users\Khriz\Desktop\Proyecto BD y MS\repository-GGPL\Presentacion\obj\Debug\Presentacion.frmLoteInsumo.resources
+C:\Users\Khriz\Desktop\Proyecto BD y MS\repository-GGPL\Presentacion\obj\Debug\Presentacion.frmLotes.resources
+C:\Users\Khriz\Desktop\Proyecto BD y MS\repository-GGPL\Presentacion\obj\Debug\Presentacion.frmPaises.resources
+C:\Users\Khriz\Desktop\Proyecto BD y MS\repository-GGPL\Presentacion\obj\Debug\Presentacion.frmProvincias.resources
+C:\Users\Khriz\Desktop\Proyecto BD y MS\repository-GGPL\Presentacion\obj\Debug\Presentacion.frmRazas.resources
+C:\Users\Khriz\Desktop\Proyecto BD y MS\repository-GGPL\Presentacion\obj\Debug\Presentacion.frmTipoAnimal.resources
+C:\Users\Khriz\Desktop\Proyecto BD y MS\repository-GGPL\Presentacion\obj\Debug\Presentacion.frmTipoMedicamento.resources
+C:\Users\Khriz\Desktop\Proyecto BD y MS\repository-GGPL\Presentacion\obj\Debug\Presentacion.frmTipoVacuna.resources
+C:\Users\Khriz\Desktop\Proyecto BD y MS\repository-GGPL\Presentacion\obj\Debug\Presentacion.frmGestionTipoAnimal.resources
+C:\Users\Khriz\Desktop\Proyecto BD y MS\repository-GGPL\Presentacion\bin\Debug\Datos.dll
+C:\Users\Khriz\Desktop\Proyecto BD y MS\repository-GGPL\Presentacion\bin\Debug\Datos.pdb
+C:\Users\Empresa\Documents\repository-GGPL\Presentacion\bin\Debug\Datos.dll
+C:\Users\Empresa\Documents\repository-GGPL\Presentacion\bin\Debug\Datos.pdb
+C:\Users\Empresa\Documents\repository-GGPL\Presentacion\obj\Debug\Presentacion.frmGestionTipoOrdeno.resources
+C:\Users\Empresa\Documents\repository-GGPL\Presentacion\obj\Debug\Presentacion.frmTiposOrdeno.resources
+C:\Users\Empresa\Documents\repository-GGPL\Presentacion\obj\Debug\Presentacion.frmGestionTipoLeche.resources
+C:\Users\Empresa\Documents\repository-GGPL\Presentacion\obj\Debug\Presentacion.frmTipoLeche.resources
+C:\Users\Empresa\Documents\repository-GGPL\Presentacion\obj\Debug\Presentacion.frmProduccionLechera.resources
+C:\Users\Empresa\Documents\repository-GGPL\Presentacion\obj\Debug\Presentacion.frmGestionProduccionLeche.resources
+C:\Users\Empresa\Documents\repository-GGPL\Presentacion\obj\Debug\Presentacion.frmGestionTipoPago.resources
+C:\Users\Empresa\Documents\repository-GGPL\Presentacion\obj\Debug\Presentacion.frmTipoPago.resources
+C:\Users\Empresa\Documents\repository-GGPL\Presentacion\obj\Debug\Presentacion.frmGestionUsuario.resources
+C:\Users\Empresa\Documents\repository-GGPL\Presentacion\obj\Debug\Presentacion.frmUsuario.resources
+C:\Users\Khriz\Downloads\repository-GGPL\repository-GGPL\Presentacion\bin\Debug\Presentacion.dll
+C:\Users\Khriz\Downloads\repository-GGPL\repository-GGPL\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\Khriz\Downloads\repository-GGPL\repository-GGPL\Presentacion\bin\Debug\Negociacion.dll
+C:\Users\Khriz\Downloads\repository-GGPL\repository-GGPL\Presentacion\bin\Debug\Datos.dll
+C:\Users\Khriz\Downloads\repository-GGPL\repository-GGPL\Presentacion\bin\Debug\Negociacion.pdb
+C:\Users\Khriz\Downloads\repository-GGPL\repository-GGPL\Presentacion\bin\Debug\Datos.pdb
+C:\Users\Khriz\Downloads\repository-GGPL\repository-GGPL\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\Khriz\Downloads\repository-GGPL\repository-GGPL\Presentacion\obj\Debug\Presentacion.frmGestionAnimal.resources
+C:\Users\Khriz\Downloads\repository-GGPL\repository-GGPL\Presentacion\obj\Debug\Presentacion.frmGestionProduccionLeche.resources
+C:\Users\Khriz\Downloads\repository-GGPL\repository-GGPL\Presentacion\obj\Debug\Presentacion.frmGestionSaludAnimal.resources
+C:\Users\Khriz\Downloads\repository-GGPL\repository-GGPL\Presentacion\obj\Debug\Presentacion.frmGestionHectareas.resources
+C:\Users\Khriz\Downloads\repository-GGPL\repository-GGPL\Presentacion\obj\Debug\Presentacion.frmGestionUsuario.resources
+C:\Users\Khriz\Downloads\repository-GGPL\repository-GGPL\Presentacion\obj\Debug\Presentacion.frmHectareas.resources
+C:\Users\Khriz\Downloads\repository-GGPL\repository-GGPL\Presentacion\obj\Debug\Presentacion.frmLogin.resources
+C:\Users\Khriz\Downloads\repository-GGPL\repository-GGPL\Presentacion\obj\Debug\Presentacion.frmPantallaPrincipal.resources
+C:\Users\Khriz\Downloads\repository-GGPL\repository-GGPL\Presentacion\obj\Debug\Presentacion.frmProduccionLechera.resources
+C:\Users\Khriz\Downloads\repository-GGPL\repository-GGPL\Presentacion\obj\Debug\Presentacion.frmTipoMedicamento.resources
+C:\Users\Khriz\Downloads\repository-GGPL\repository-GGPL\Presentacion\obj\Debug\Presentacion.frmTipoVacuna.resources
+C:\Users\Khriz\Downloads\repository-GGPL\repository-GGPL\Presentacion\obj\Debug\Presentacion.frmUsuario.resources
+C:\Users\Khriz\Downloads\repository-GGPL\repository-GGPL\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\Khriz\Downloads\repository-GGPL\repository-GGPL\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\Khriz\Downloads\repository-GGPL\repository-GGPL\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Khriz\Downloads\repository-GGPL\repository-GGPL\Presentacion\obj\Debug\Presenta.BC77CD05.Up2Date
+C:\Users\Khriz\Downloads\repository-GGPL\repository-GGPL\Presentacion\obj\Debug\Presentacion.dll
+C:\Users\Khriz\Downloads\repository-GGPL\repository-GGPL\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\Khriz\Desktop\repository-GGPL\repository-GGPL\Presentacion\bin\Debug\Presentacion.dll
+C:\Users\Khriz\Desktop\repository-GGPL\repository-GGPL\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\Khriz\Desktop\repository-GGPL\repository-GGPL\Presentacion\bin\Debug\Negociacion.dll
+C:\Users\Khriz\Desktop\repository-GGPL\repository-GGPL\Presentacion\bin\Debug\Datos.dll
+C:\Users\Khriz\Desktop\repository-GGPL\repository-GGPL\Presentacion\bin\Debug\Negociacion.pdb
+C:\Users\Khriz\Desktop\repository-GGPL\repository-GGPL\Presentacion\bin\Debug\Datos.pdb
+C:\Users\Khriz\Desktop\repository-GGPL\repository-GGPL\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\Khriz\Desktop\repository-GGPL\repository-GGPL\Presentacion\obj\Debug\Presentacion.frmCiudades.resources
+C:\Users\Khriz\Desktop\repository-GGPL\repository-GGPL\Presentacion\obj\Debug\Presentacion.frmDistribuidor.resources
+C:\Users\Khriz\Desktop\repository-GGPL\repository-GGPL\Presentacion\obj\Debug\Presentacion.frmEspecieAnimal.resources
+C:\Users\Khriz\Desktop\repository-GGPL\repository-GGPL\Presentacion\obj\Debug\Presentacion.frmGestionAnimal.resources
+C:\Users\Khriz\Desktop\repository-GGPL\repository-GGPL\Presentacion\obj\Debug\Presentacion.frmGestionCiudades.resources
+C:\Users\Khriz\Desktop\repository-GGPL\repository-GGPL\Presentacion\obj\Debug\Presentacion.frmGestionDistribuidor.resources
+C:\Users\Khriz\Desktop\repository-GGPL\repository-GGPL\Presentacion\obj\Debug\Presentacion.frmGestionPaises.resources
+C:\Users\Khriz\Desktop\repository-GGPL\repository-GGPL\Presentacion\obj\Debug\Presentacion.frmGestionProduccionLeche.resources
+C:\Users\Khriz\Desktop\repository-GGPL\repository-GGPL\Presentacion\obj\Debug\Presentacion.frmGestionProvincias.resources
+C:\Users\Khriz\Desktop\repository-GGPL\repository-GGPL\Presentacion\obj\Debug\Presentacion.frmGestionSaludAnimal.resources
+C:\Users\Khriz\Desktop\repository-GGPL\repository-GGPL\Presentacion\obj\Debug\Presentacion.frmGestionEspecieAnimal.resources
+C:\Users\Khriz\Desktop\repository-GGPL\repository-GGPL\Presentacion\obj\Debug\Presentacion.frmGestionHectareas.resources
+C:\Users\Khriz\Desktop\repository-GGPL\repository-GGPL\Presentacion\obj\Debug\Presentacion.frmGestionLotes.resources
+C:\Users\Khriz\Desktop\repository-GGPL\repository-GGPL\Presentacion\obj\Debug\Presentacion.frmGestionRazaAnimal.resources
+C:\Users\Khriz\Desktop\repository-GGPL\repository-GGPL\Presentacion\obj\Debug\Presentacion.frmGestionTipoIdentificacion.resources
+C:\Users\Khriz\Desktop\repository-GGPL\repository-GGPL\Presentacion\obj\Debug\Presentacion.frmGestionTipoLeche.resources
+C:\Users\Khriz\Desktop\repository-GGPL\repository-GGPL\Presentacion\obj\Debug\Presentacion.frmGestionTipoMedicamento.resources
+C:\Users\Khriz\Desktop\repository-GGPL\repository-GGPL\Presentacion\obj\Debug\Presentacion.frmGestionTipoOrdeno.resources
+C:\Users\Khriz\Desktop\repository-GGPL\repository-GGPL\Presentacion\obj\Debug\Presentacion.frmGestionTipoPago.resources
+C:\Users\Khriz\Desktop\repository-GGPL\repository-GGPL\Presentacion\obj\Debug\Presentacion.frmGestionUsuario.resources
+C:\Users\Khriz\Desktop\repository-GGPL\repository-GGPL\Presentacion\obj\Debug\Presentacion.frmHectareas.resources
+C:\Users\Khriz\Desktop\repository-GGPL\repository-GGPL\Presentacion\obj\Debug\Presentacion.frmLogin.resources
+C:\Users\Khriz\Desktop\repository-GGPL\repository-GGPL\Presentacion\obj\Debug\Presentacion.frmLoteInsumo.resources
+C:\Users\Khriz\Desktop\repository-GGPL\repository-GGPL\Presentacion\obj\Debug\Presentacion.frmLotes.resources
+C:\Users\Khriz\Desktop\repository-GGPL\repository-GGPL\Presentacion\obj\Debug\Presentacion.frmPaises.resources
+C:\Users\Khriz\Desktop\repository-GGPL\repository-GGPL\Presentacion\obj\Debug\Presentacion.frmPantallaPrincipal.resources
+C:\Users\Khriz\Desktop\repository-GGPL\repository-GGPL\Presentacion\obj\Debug\Presentacion.frmProduccionLechera.resources
+C:\Users\Khriz\Desktop\repository-GGPL\repository-GGPL\Presentacion\obj\Debug\Presentacion.frmProvincias.resources
+C:\Users\Khriz\Desktop\repository-GGPL\repository-GGPL\Presentacion\obj\Debug\Presentacion.frmRazas.resources
+C:\Users\Khriz\Desktop\repository-GGPL\repository-GGPL\Presentacion\obj\Debug\Presentacion.frmTipoAnimal.resources
+C:\Users\Khriz\Desktop\repository-GGPL\repository-GGPL\Presentacion\obj\Debug\Presentacion.frmTipoLeche.resources
+C:\Users\Khriz\Desktop\repository-GGPL\repository-GGPL\Presentacion\obj\Debug\Presentacion.frmTipoLoteInsumo.resources
+C:\Users\Khriz\Desktop\repository-GGPL\repository-GGPL\Presentacion\obj\Debug\Presentacion.frmTipoMedicamento.resources
+C:\Users\Khriz\Desktop\repository-GGPL\repository-GGPL\Presentacion\obj\Debug\Presentacion.frmTipoPago.resources
+C:\Users\Khriz\Desktop\repository-GGPL\repository-GGPL\Presentacion\obj\Debug\Presentacion.frmTiposOrdeno.resources
+C:\Users\Khriz\Desktop\repository-GGPL\repository-GGPL\Presentacion\obj\Debug\Presentacion.frmTipoVacuna.resources
+C:\Users\Khriz\Desktop\repository-GGPL\repository-GGPL\Presentacion\obj\Debug\Presentacion.frmGestionTipoAnimal.resources
+C:\Users\Khriz\Desktop\repository-GGPL\repository-GGPL\Presentacion\obj\Debug\Presentacion.frmUsuario.resources
+C:\Users\Khriz\Desktop\repository-GGPL\repository-GGPL\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\Khriz\Desktop\repository-GGPL\repository-GGPL\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\Khriz\Desktop\repository-GGPL\repository-GGPL\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Khriz\Desktop\repository-GGPL\repository-GGPL\Presentacion\obj\Debug\Presenta.BC77CD05.Up2Date
+C:\Users\Khriz\Desktop\repository-GGPL\repository-GGPL\Presentacion\obj\Debug\Presentacion.dll
+C:\Users\Khriz\Desktop\repository-GGPL\repository-GGPL\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\Khriz\Desktop\repository-GGPL\Presentacion\bin\Debug\Presentacion.dll
+C:\Users\Khriz\Desktop\repository-GGPL\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\Khriz\Desktop\repository-GGPL\Presentacion\bin\Debug\Negociacion.dll
+C:\Users\Khriz\Desktop\repository-GGPL\Presentacion\bin\Debug\Datos.dll
+C:\Users\Khriz\Desktop\repository-GGPL\Presentacion\bin\Debug\Negociacion.pdb
+C:\Users\Khriz\Desktop\repository-GGPL\Presentacion\bin\Debug\Datos.pdb
+C:\Users\Khriz\Desktop\repository-GGPL\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\Khriz\Desktop\repository-GGPL\Presentacion\obj\Debug\Presentacion.frmGestionAnimal.resources
+C:\Users\Khriz\Desktop\repository-GGPL\Presentacion\obj\Debug\Presentacion.frmGestionProduccionLeche.resources
+C:\Users\Khriz\Desktop\repository-GGPL\Presentacion\obj\Debug\Presentacion.frmGestionSaludAnimal.resources
+C:\Users\Khriz\Desktop\repository-GGPL\Presentacion\obj\Debug\Presentacion.frmGestionHectareas.resources
+C:\Users\Khriz\Desktop\repository-GGPL\Presentacion\obj\Debug\Presentacion.frmGestionTipoMedicamento.resources
+C:\Users\Khriz\Desktop\repository-GGPL\Presentacion\obj\Debug\Presentacion.frmGestionUsuario.resources
+C:\Users\Khriz\Desktop\repository-GGPL\Presentacion\obj\Debug\Presentacion.frmHectareas.resources
+C:\Users\Khriz\Desktop\repository-GGPL\Presentacion\obj\Debug\Presentacion.frmLogin.resources
+C:\Users\Khriz\Desktop\repository-GGPL\Presentacion\obj\Debug\Presentacion.frmPantallaPrincipal.resources
+C:\Users\Khriz\Desktop\repository-GGPL\Presentacion\obj\Debug\Presentacion.frmProduccionLechera.resources
+C:\Users\Khriz\Desktop\repository-GGPL\Presentacion\obj\Debug\Presentacion.frmTipoMedicamento.resources
+C:\Users\Khriz\Desktop\repository-GGPL\Presentacion\obj\Debug\Presentacion.frmTipoVacuna.resources
+C:\Users\Khriz\Desktop\repository-GGPL\Presentacion\obj\Debug\Presentacion.frmUsuario.resources
+C:\Users\Khriz\Desktop\repository-GGPL\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\Khriz\Desktop\repository-GGPL\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\Khriz\Desktop\repository-GGPL\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Khriz\Desktop\repository-GGPL\Presentacion\obj\Debug\Presenta.BC77CD05.Up2Date
+C:\Users\Khriz\Desktop\repository-GGPL\Presentacion\obj\Debug\Presentacion.dll
+C:\Users\Khriz\Desktop\repository-GGPL\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\Khriz\Desktop\repository-GGPL\Presentacion\obj\Debug\Presentacion.frmAnimales.resources
+C:\Users\Khriz\Desktop\repository-GGPL\Presentacion\obj\Debug\Presentacion.frmCompra.resources
+C:\Users\Khriz\Desktop\repository-GGPL\Presentacion\obj\Debug\Presentacion.frmGestionCompra.resources
+C:\Users\Khriz\Desktop\repository-GGPL\Presentacion\obj\Debug\Presentacion.frmGestionVenta.resources
+C:\Users\Khriz\Desktop\repository-GGPL\Presentacion\obj\Debug\Presentacion.frmVenta.resources
+C:\Users\Khriz\Desktop\repository-GGPL\Presentacion\obj\Debug\Presentacion.frmSeleccionarAnimales.resources
+C:\Users\Khriz\Desktop\repository-GGPL\Presentacion\obj\Debug\Presentacion.frmGestionLoteAnimales.resources
+C:\Users\Khriz\Desktop\repository-GGPL\Presentacion\obj\Debug\Presentacion.frmTiposAnimalesEspeciesRazas.resources
+C:\Users\Khriz\Desktop\repository-GGPL\Presentacion\obj\Debug\Presentacion.frmGestionLoteInsumos.resources
+C:\Users\Khriz\Desktop\repository-GGPL\Presentacion\obj\Debug\Presentacion.frmLotesAnimalesInsumos.resources
+C:\Users\Khriz\Desktop\repository-GGPL\Presentacion\obj\Debug\Presentacion.frmResumen.resources
+C:\Users\Empresa\Downloads\repository-GGPL\repository-GGPL\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\Empresa\Downloads\repository-GGPL\repository-GGPL\Presentacion\obj\Debug\Presentacion.dll
+C:\Users\Empresa\Downloads\repository-GGPL\repository-GGPL\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\Empresa\Downloads\repository-GGPL\repository-GGPL\Presentacion\bin\Debug\Presentacion.dll
+C:\Users\Empresa\Downloads\repository-GGPL\repository-GGPL\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\Empresa\Downloads\repository-GGPL\repository-GGPL\Presentacion\bin\Debug\Negociacion.dll
+C:\Users\Empresa\Downloads\repository-GGPL\repository-GGPL\Presentacion\bin\Debug\Datos.dll
+C:\Users\Empresa\Downloads\repository-GGPL\repository-GGPL\Presentacion\bin\Debug\Negociacion.pdb
+C:\Users\Empresa\Downloads\repository-GGPL\repository-GGPL\Presentacion\bin\Debug\Datos.pdb
+C:\Users\Empresa\Downloads\repository-GGPL\repository-GGPL\Presentacion\obj\Debug\Presentacion.frmAnimales.resources
+C:\Users\Empresa\Downloads\repository-GGPL\repository-GGPL\Presentacion\obj\Debug\Presentacion.frmCompra.resources
+C:\Users\Empresa\Downloads\repository-GGPL\repository-GGPL\Presentacion\obj\Debug\Presentacion.frmGestionAnimal.resources
+C:\Users\Empresa\Downloads\repository-GGPL\repository-GGPL\Presentacion\obj\Debug\Presentacion.frmGestionCompra.resources
+C:\Users\Empresa\Downloads\repository-GGPL\repository-GGPL\Presentacion\obj\Debug\Presentacion.frmGestionLoteInsumos.resources
+C:\Users\Empresa\Downloads\repository-GGPL\repository-GGPL\Presentacion\obj\Debug\Presentacion.frmGestionProduccionLeche.resources
+C:\Users\Empresa\Downloads\repository-GGPL\repository-GGPL\Presentacion\obj\Debug\Presentacion.frmGestionSaludAnimal.resources
+C:\Users\Empresa\Downloads\repository-GGPL\repository-GGPL\Presentacion\obj\Debug\Presentacion.frmGestionHectareas.resources
+C:\Users\Empresa\Downloads\repository-GGPL\repository-GGPL\Presentacion\obj\Debug\Presentacion.frmGestionLoteAnimales.resources
+C:\Users\Empresa\Downloads\repository-GGPL\repository-GGPL\Presentacion\obj\Debug\Presentacion.frmGestionTipoMedicamento.resources
+C:\Users\Empresa\Downloads\repository-GGPL\repository-GGPL\Presentacion\obj\Debug\Presentacion.frmGestionUsuario.resources
+C:\Users\Empresa\Downloads\repository-GGPL\repository-GGPL\Presentacion\obj\Debug\Presentacion.frmGestionVenta.resources
+C:\Users\Empresa\Downloads\repository-GGPL\repository-GGPL\Presentacion\obj\Debug\Presentacion.frmHectareas.resources
+C:\Users\Empresa\Downloads\repository-GGPL\repository-GGPL\Presentacion\obj\Debug\Presentacion.frmLogin.resources
+C:\Users\Empresa\Downloads\repository-GGPL\repository-GGPL\Presentacion\obj\Debug\Presentacion.frmLotesAnimalesInsumos.resources
+C:\Users\Empresa\Downloads\repository-GGPL\repository-GGPL\Presentacion\obj\Debug\Presentacion.frmPantallaPrincipal.resources
+C:\Users\Empresa\Downloads\repository-GGPL\repository-GGPL\Presentacion\obj\Debug\Presentacion.frmProduccionLechera.resources
+C:\Users\Empresa\Downloads\repository-GGPL\repository-GGPL\Presentacion\obj\Debug\Presentacion.frmResumen.resources
+C:\Users\Empresa\Downloads\repository-GGPL\repository-GGPL\Presentacion\obj\Debug\Presentacion.frmSeleccionarAnimales.resources
+C:\Users\Empresa\Downloads\repository-GGPL\repository-GGPL\Presentacion\obj\Debug\Presentacion.frmTiposAnimalesEspeciesRazas.resources
+C:\Users\Empresa\Downloads\repository-GGPL\repository-GGPL\Presentacion\obj\Debug\Presentacion.frmTipoMedicamento.resources
+C:\Users\Empresa\Downloads\repository-GGPL\repository-GGPL\Presentacion\obj\Debug\Presentacion.frmTipoVacuna.resources
+C:\Users\Empresa\Downloads\repository-GGPL\repository-GGPL\Presentacion\obj\Debug\Presentacion.frmUsuario.resources
+C:\Users\Empresa\Downloads\repository-GGPL\repository-GGPL\Presentacion\obj\Debug\Presentacion.frmVenta.resources
+C:\Users\Empresa\Downloads\repository-GGPL\repository-GGPL\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\Empresa\Downloads\repository-GGPL\repository-GGPL\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\Empresa\Downloads\repository-GGPL\repository-GGPL\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Empresa\Downloads\repository-GGPL\repository-GGPL\Presentacion\obj\Debug\Presenta.BC77CD05.Up2Date
+C:\Users\Empresa\Downloads\repository-GGPL\repository-GGPL\Presentacion\obj\Debug\Presentacion.frmSaludAnimal.resources
+C:\Users\Khriz\Downloads\repository-GGPL\repository-GGPL\Presentacion\obj\Debug\Presentacion.frmAnimales.resources
+C:\Users\Khriz\Downloads\repository-GGPL\repository-GGPL\Presentacion\obj\Debug\Presentacion.frmCompra.resources
+C:\Users\Khriz\Downloads\repository-GGPL\repository-GGPL\Presentacion\obj\Debug\Presentacion.frmGestionCompra.resources
+C:\Users\Khriz\Downloads\repository-GGPL\repository-GGPL\Presentacion\obj\Debug\Presentacion.frmGestionLoteInsumos.resources
+C:\Users\Khriz\Downloads\repository-GGPL\repository-GGPL\Presentacion\obj\Debug\Presentacion.frmGestionLoteAnimales.resources
+C:\Users\Khriz\Downloads\repository-GGPL\repository-GGPL\Presentacion\obj\Debug\Presentacion.frmGestionVenta.resources
+C:\Users\Khriz\Downloads\repository-GGPL\repository-GGPL\Presentacion\obj\Debug\Presentacion.frmLotesAnimalesInsumos.resources
+C:\Users\Khriz\Downloads\repository-GGPL\repository-GGPL\Presentacion\obj\Debug\Presentacion.frmResumen.resources
+C:\Users\Khriz\Downloads\repository-GGPL\repository-GGPL\Presentacion\obj\Debug\Presentacion.frmSeleccionarAnimales.resources
+C:\Users\Khriz\Downloads\repository-GGPL\repository-GGPL\Presentacion\obj\Debug\Presentacion.frmTiposAnimalesEspeciesRazas.resources
+C:\Users\Khriz\Downloads\repository-GGPL\repository-GGPL\Presentacion\obj\Debug\Presentacion.frmVenta.resources
+C:\Users\Khriz\Downloads\repository-GGPL\repository-GGPL\Presentacion\obj\Debug\Presentacion.frmEnfermedad.resources
+C:\Users\Empresa\Desktop\repository-GGPL\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\Empresa\Desktop\repository-GGPL\Presentacion\obj\Debug\Presentacion.frmAnimales.resources
+C:\Users\Empresa\Desktop\repository-GGPL\Presentacion\obj\Debug\Presentacion.frmCompra.resources
+C:\Users\Empresa\Desktop\repository-GGPL\Presentacion\obj\Debug\Presentacion.frmGestionAnimal.resources
+C:\Users\Empresa\Desktop\repository-GGPL\Presentacion\obj\Debug\Presentacion.frmGestionCompra.resources
+C:\Users\Empresa\Desktop\repository-GGPL\Presentacion\obj\Debug\Presentacion.frmGestionLoteInsumos.resources
+C:\Users\Empresa\Desktop\repository-GGPL\Presentacion\obj\Debug\Presentacion.frmGestionProduccionLeche.resources
+C:\Users\Empresa\Desktop\repository-GGPL\Presentacion\obj\Debug\Presentacion.frmGestionHectareas.resources
+C:\Users\Empresa\Desktop\repository-GGPL\Presentacion\obj\Debug\Presentacion.frmGestionLoteAnimales.resources
+C:\Users\Empresa\Desktop\repository-GGPL\Presentacion\obj\Debug\Presentacion.frmGestionSaludAnimal.resources
+C:\Users\Empresa\Desktop\repository-GGPL\Presentacion\obj\Debug\Presentacion.frmGestionTipoMedicamento.resources
+C:\Users\Empresa\Desktop\repository-GGPL\Presentacion\obj\Debug\Presentacion.frmGestionUsuario.resources
+C:\Users\Empresa\Desktop\repository-GGPL\Presentacion\obj\Debug\Presentacion.frmGestionVenta.resources
+C:\Users\Empresa\Desktop\repository-GGPL\Presentacion\obj\Debug\Presentacion.frmHectareas.resources
+C:\Users\Empresa\Desktop\repository-GGPL\Presentacion\obj\Debug\Presentacion.frmLogin.resources
+C:\Users\Empresa\Desktop\repository-GGPL\Presentacion\obj\Debug\Presentacion.frmLotesAnimalesInsumos.resources
+C:\Users\Empresa\Desktop\repository-GGPL\Presentacion\obj\Debug\Presentacion.frmPantallaPrincipal.resources
+C:\Users\Empresa\Desktop\repository-GGPL\Presentacion\obj\Debug\Presentacion.frmProduccionLechera.resources
+C:\Users\Empresa\Desktop\repository-GGPL\Presentacion\obj\Debug\Presentacion.frmResumen.resources
+C:\Users\Empresa\Desktop\repository-GGPL\Presentacion\obj\Debug\Presentacion.frmEnfermedad.resources
+C:\Users\Empresa\Desktop\repository-GGPL\Presentacion\obj\Debug\Presentacion.frmSaludAnimal.resources
+C:\Users\Empresa\Desktop\repository-GGPL\Presentacion\obj\Debug\Presentacion.frmSeleccionarAnimales.resources
+C:\Users\Empresa\Desktop\repository-GGPL\Presentacion\obj\Debug\Presentacion.frmTiposAnimalesEspeciesRazas.resources
+C:\Users\Empresa\Desktop\repository-GGPL\Presentacion\obj\Debug\Presentacion.frmTipoMedicamento.resources
+C:\Users\Empresa\Desktop\repository-GGPL\Presentacion\obj\Debug\Presentacion.frmTipoVacuna.resources
+C:\Users\Empresa\Desktop\repository-GGPL\Presentacion\obj\Debug\Presentacion.frmUsuario.resources
+C:\Users\Empresa\Desktop\repository-GGPL\Presentacion\obj\Debug\Presentacion.frmVenta.resources
+C:\Users\Empresa\Desktop\repository-GGPL\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\Empresa\Desktop\repository-GGPL\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\Empresa\Desktop\repository-GGPL\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Empresa\Desktop\repository-GGPL\Presentacion\obj\Debug\Presentacion.dll
+C:\Users\Empresa\Desktop\repository-GGPL\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\Empresa\Desktop\repository-GGPL\Presentacion\bin\Debug\Presentacion.dll
+C:\Users\Empresa\Desktop\repository-GGPL\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\Empresa\Desktop\repository-GGPL\Presentacion\bin\Debug\Negociacion.dll
+C:\Users\Empresa\Desktop\repository-GGPL\Presentacion\bin\Debug\Datos.dll
+C:\Users\Empresa\Desktop\repository-GGPL\Presentacion\bin\Debug\Negociacion.pdb
+C:\Users\Empresa\Desktop\repository-GGPL\Presentacion\bin\Debug\Datos.pdb
+C:\Users\Empresa\Desktop\repository-GGPL\Presentacion\obj\Debug\Presenta.BC77CD05.Up2Date
+C:\Users\Khriz\Downloads\repository-GGPL\repository-GGPL\Presentacion\obj\Debug\Presentacion.frmSaludAnimal.resources
+C:\Users\Darwin Sánchez\Downloads\GGPL\GGPL\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\Darwin Sánchez\Downloads\GGPL\GGPL\Presentacion\bin\Debug\Presentacion.dll
+C:\Users\Darwin Sánchez\Downloads\GGPL\GGPL\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\Darwin Sánchez\Downloads\GGPL\GGPL\Presentacion\bin\Debug\Negociacion.dll
+C:\Users\Darwin Sánchez\Downloads\GGPL\GGPL\Presentacion\bin\Debug\Datos.dll
+C:\Users\Darwin Sánchez\Downloads\GGPL\GGPL\Presentacion\bin\Debug\Negociacion.pdb
+C:\Users\Darwin Sánchez\Downloads\GGPL\GGPL\Presentacion\bin\Debug\Datos.pdb
+C:\Users\Darwin Sánchez\Downloads\GGPL\GGPL\Presentacion\obj\Debug\Presentacion.frmAnimales.resources
+C:\Users\Darwin Sánchez\Downloads\GGPL\GGPL\Presentacion\obj\Debug\Presentacion.frmCompra.resources
+C:\Users\Darwin Sánchez\Downloads\GGPL\GGPL\Presentacion\obj\Debug\Presentacion.frmGestionAnimal.resources
+C:\Users\Darwin Sánchez\Downloads\GGPL\GGPL\Presentacion\obj\Debug\Presentacion.frmGestionCompra.resources
+C:\Users\Darwin Sánchez\Downloads\GGPL\GGPL\Presentacion\obj\Debug\Presentacion.frmGestionLoteInsumos.resources
+C:\Users\Darwin Sánchez\Downloads\GGPL\GGPL\Presentacion\obj\Debug\Presentacion.frmGestionProduccionLeche.resources
+C:\Users\Darwin Sánchez\Downloads\GGPL\GGPL\Presentacion\obj\Debug\Presentacion.frmGestionHectareas.resources
+C:\Users\Darwin Sánchez\Downloads\GGPL\GGPL\Presentacion\obj\Debug\Presentacion.frmGestionLoteAnimales.resources
+C:\Users\Darwin Sánchez\Downloads\GGPL\GGPL\Presentacion\obj\Debug\Presentacion.frmGestionSaludAnimal.resources
+C:\Users\Darwin Sánchez\Downloads\GGPL\GGPL\Presentacion\obj\Debug\Presentacion.frmGestionUsuario.resources
+C:\Users\Darwin Sánchez\Downloads\GGPL\GGPL\Presentacion\obj\Debug\Presentacion.frmGestionVenta.resources
+C:\Users\Darwin Sánchez\Downloads\GGPL\GGPL\Presentacion\obj\Debug\Presentacion.frmHectareas.resources
+C:\Users\Darwin Sánchez\Downloads\GGPL\GGPL\Presentacion\obj\Debug\Presentacion.frmLogin.resources
+C:\Users\Darwin Sánchez\Downloads\GGPL\GGPL\Presentacion\obj\Debug\Presentacion.frmLotesAnimalesInsumos.resources
+C:\Users\Darwin Sánchez\Downloads\GGPL\GGPL\Presentacion\obj\Debug\Presentacion.frmPantallaPrincipal.resources
+C:\Users\Darwin Sánchez\Downloads\GGPL\GGPL\Presentacion\obj\Debug\Presentacion.frmProduccionLechera.resources
+C:\Users\Darwin Sánchez\Downloads\GGPL\GGPL\Presentacion\obj\Debug\Presentacion.frmResumen.resources
+C:\Users\Darwin Sánchez\Downloads\GGPL\GGPL\Presentacion\obj\Debug\Presentacion.frmEnfermedad.resources
+C:\Users\Darwin Sánchez\Downloads\GGPL\GGPL\Presentacion\obj\Debug\Presentacion.frmSaludAnimal.resources
+C:\Users\Darwin Sánchez\Downloads\GGPL\GGPL\Presentacion\obj\Debug\Presentacion.frmSeleccionarAnimales.resources
+C:\Users\Darwin Sánchez\Downloads\GGPL\GGPL\Presentacion\obj\Debug\Presentacion.frmTiposAnimalesEspeciesRazas.resources
+C:\Users\Darwin Sánchez\Downloads\GGPL\GGPL\Presentacion\obj\Debug\Presentacion.frmTipoMedicamento.resources
+C:\Users\Darwin Sánchez\Downloads\GGPL\GGPL\Presentacion\obj\Debug\Presentacion.frmTipoVacuna.resources
+C:\Users\Darwin Sánchez\Downloads\GGPL\GGPL\Presentacion\obj\Debug\Presentacion.frmUsuario.resources
+C:\Users\Darwin Sánchez\Downloads\GGPL\GGPL\Presentacion\obj\Debug\Presentacion.frmVenta.resources
+C:\Users\Darwin Sánchez\Downloads\GGPL\GGPL\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\Darwin Sánchez\Downloads\GGPL\GGPL\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\Darwin Sánchez\Downloads\GGPL\GGPL\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Darwin Sánchez\Downloads\GGPL\GGPL\Presentacion\obj\Debug\Presenta.BC77CD05.Up2Date
+C:\Users\Darwin Sánchez\Downloads\GGPL\GGPL\Presentacion\obj\Debug\Presentacion.dll
+C:\Users\Darwin Sánchez\Downloads\GGPL\GGPL\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\Darwin Sánchez\Documents\ABD-GGPL\GGPL\Presentacion\bin\Debug\Presentacion.dll
+C:\Users\Darwin Sánchez\Documents\ABD-GGPL\GGPL\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\Darwin Sánchez\Documents\ABD-GGPL\GGPL\Presentacion\bin\Debug\Negociacion.dll
+C:\Users\Darwin Sánchez\Documents\ABD-GGPL\GGPL\Presentacion\bin\Debug\Datos.dll
+C:\Users\Darwin Sánchez\Documents\ABD-GGPL\GGPL\Presentacion\bin\Debug\Negociacion.pdb
+C:\Users\Darwin Sánchez\Documents\ABD-GGPL\GGPL\Presentacion\bin\Debug\Datos.pdb
+C:\Users\Darwin Sánchez\Documents\ABD-GGPL\GGPL\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\Darwin Sánchez\Documents\ABD-GGPL\GGPL\Presentacion\obj\Debug\Presentacion.frmAnimales.resources
+C:\Users\Darwin Sánchez\Documents\ABD-GGPL\GGPL\Presentacion\obj\Debug\Presentacion.frmCompra.resources
+C:\Users\Darwin Sánchez\Documents\ABD-GGPL\GGPL\Presentacion\obj\Debug\Presentacion.frmGestionAnimal.resources
+C:\Users\Darwin Sánchez\Documents\ABD-GGPL\GGPL\Presentacion\obj\Debug\Presentacion.frmGestionCompra.resources
+C:\Users\Darwin Sánchez\Documents\ABD-GGPL\GGPL\Presentacion\obj\Debug\Presentacion.frmGestionLoteInsumos.resources
+C:\Users\Darwin Sánchez\Documents\ABD-GGPL\GGPL\Presentacion\obj\Debug\Presentacion.frmGestionProduccionLeche.resources
+C:\Users\Darwin Sánchez\Documents\ABD-GGPL\GGPL\Presentacion\obj\Debug\Presentacion.frmGestionHectareas.resources
+C:\Users\Darwin Sánchez\Documents\ABD-GGPL\GGPL\Presentacion\obj\Debug\Presentacion.frmGestionLoteAnimales.resources
+C:\Users\Darwin Sánchez\Documents\ABD-GGPL\GGPL\Presentacion\obj\Debug\Presentacion.frmGestionSaludAnimal.resources
+C:\Users\Darwin Sánchez\Documents\ABD-GGPL\GGPL\Presentacion\obj\Debug\Presentacion.frmGestionUsuario.resources
+C:\Users\Darwin Sánchez\Documents\ABD-GGPL\GGPL\Presentacion\obj\Debug\Presentacion.frmGestionVenta.resources
+C:\Users\Darwin Sánchez\Documents\ABD-GGPL\GGPL\Presentacion\obj\Debug\Presentacion.frmHectareas.resources
+C:\Users\Darwin Sánchez\Documents\ABD-GGPL\GGPL\Presentacion\obj\Debug\Presentacion.frmLogin.resources
+C:\Users\Darwin Sánchez\Documents\ABD-GGPL\GGPL\Presentacion\obj\Debug\Presentacion.frmLotesAnimalesInsumos.resources
+C:\Users\Darwin Sánchez\Documents\ABD-GGPL\GGPL\Presentacion\obj\Debug\Presentacion.frmPantallaPrincipal.resources
+C:\Users\Darwin Sánchez\Documents\ABD-GGPL\GGPL\Presentacion\obj\Debug\Presentacion.frmProduccionLechera.resources
+C:\Users\Darwin Sánchez\Documents\ABD-GGPL\GGPL\Presentacion\obj\Debug\Presentacion.frmResumen.resources
+C:\Users\Darwin Sánchez\Documents\ABD-GGPL\GGPL\Presentacion\obj\Debug\Presentacion.frmEnfermedad.resources
+C:\Users\Darwin Sánchez\Documents\ABD-GGPL\GGPL\Presentacion\obj\Debug\Presentacion.frmSaludAnimal.resources
+C:\Users\Darwin Sánchez\Documents\ABD-GGPL\GGPL\Presentacion\obj\Debug\Presentacion.frmSeleccionarAnimales.resources
+C:\Users\Darwin Sánchez\Documents\ABD-GGPL\GGPL\Presentacion\obj\Debug\Presentacion.frmTiposAnimalesEspeciesRazas.resources
+C:\Users\Darwin Sánchez\Documents\ABD-GGPL\GGPL\Presentacion\obj\Debug\Presentacion.frmTipoMedicamento.resources
+C:\Users\Darwin Sánchez\Documents\ABD-GGPL\GGPL\Presentacion\obj\Debug\Presentacion.frmTipoVacuna.resources
+C:\Users\Darwin Sánchez\Documents\ABD-GGPL\GGPL\Presentacion\obj\Debug\Presentacion.frmUsuario.resources
+C:\Users\Darwin Sánchez\Documents\ABD-GGPL\GGPL\Presentacion\obj\Debug\Presentacion.frmVenta.resources
+C:\Users\Darwin Sánchez\Documents\ABD-GGPL\GGPL\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\Darwin Sánchez\Documents\ABD-GGPL\GGPL\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\Darwin Sánchez\Documents\ABD-GGPL\GGPL\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Darwin Sánchez\Documents\ABD-GGPL\GGPL\Presentacion\obj\Debug\Presenta.BC77CD05.Up2Date
+C:\Users\Darwin Sánchez\Documents\ABD-GGPL\GGPL\Presentacion\obj\Debug\Presentacion.dll
+C:\Users\Darwin Sánchez\Documents\ABD-GGPL\GGPL\Presentacion\obj\Debug\Presentacion.pdb

@@ -1,0 +1,90 @@
+C:\Users\Khriz\Desktop\Proyecto BD y MS\repository-GGPL\Negociacion\bin\Debug\Negociacion.dll
+C:\Users\Khriz\Desktop\Proyecto BD y MS\repository-GGPL\Negociacion\bin\Debug\Negociacion.pdb
+C:\Users\Khriz\Desktop\Proyecto BD y MS\repository-GGPL\Negociacion\bin\Debug\Datos.dll
+C:\Users\Khriz\Desktop\Proyecto BD y MS\repository-GGPL\Negociacion\bin\Debug\Datos.pdb
+C:\Users\Khriz\Desktop\Proyecto BD y MS\repository-GGPL\Negociacion\obj\Debug\Negociacion.csproj.AssemblyReference.cache
+C:\Users\Khriz\Desktop\Proyecto BD y MS\repository-GGPL\Negociacion\obj\Debug\Negociacion.csproj.CoreCompileInputs.cache
+C:\Users\Khriz\Desktop\Proyecto BD y MS\repository-GGPL\Negociacion\obj\Debug\Negociac.85562D3E.Up2Date
+C:\Users\Khriz\Desktop\Proyecto BD y MS\repository-GGPL\Negociacion\obj\Debug\Negociacion.dll
+C:\Users\Khriz\Desktop\Proyecto BD y MS\repository-GGPL\Negociacion\obj\Debug\Negociacion.pdb
+C:\Users\Empresa\Documents\Copia Repositorio - GGPL\repository-GGPL\Negociacion\bin\Debug\Negociacion.dll
+C:\Users\Empresa\Documents\Copia Repositorio - GGPL\repository-GGPL\Negociacion\bin\Debug\Negociacion.pdb
+C:\Users\Empresa\Documents\Copia Repositorio - GGPL\repository-GGPL\Negociacion\bin\Debug\Datos.dll
+C:\Users\Empresa\Documents\Copia Repositorio - GGPL\repository-GGPL\Negociacion\bin\Debug\Datos.pdb
+C:\Users\Empresa\Documents\Copia Repositorio - GGPL\repository-GGPL\Negociacion\obj\Debug\Negociacion.csproj.AssemblyReference.cache
+C:\Users\Empresa\Documents\Copia Repositorio - GGPL\repository-GGPL\Negociacion\obj\Debug\Negociacion.csproj.CoreCompileInputs.cache
+C:\Users\Empresa\Documents\Copia Repositorio - GGPL\repository-GGPL\Negociacion\obj\Debug\Negociac.85562D3E.Up2Date
+C:\Users\Empresa\Documents\Copia Repositorio - GGPL\repository-GGPL\Negociacion\obj\Debug\Negociacion.dll
+C:\Users\Empresa\Documents\Copia Repositorio - GGPL\repository-GGPL\Negociacion\obj\Debug\Negociacion.pdb
+C:\Users\Empresa\Documents\repository-GGPL\Negociacion\bin\Debug\Negociacion.dll
+C:\Users\Empresa\Documents\repository-GGPL\Negociacion\bin\Debug\Negociacion.pdb
+C:\Users\Empresa\Documents\repository-GGPL\Negociacion\bin\Debug\Datos.dll
+C:\Users\Empresa\Documents\repository-GGPL\Negociacion\bin\Debug\Datos.pdb
+C:\Users\Empresa\Documents\repository-GGPL\Negociacion\obj\Debug\Negociacion.csproj.AssemblyReference.cache
+C:\Users\Empresa\Documents\repository-GGPL\Negociacion\obj\Debug\Negociacion.csproj.CoreCompileInputs.cache
+C:\Users\Empresa\Documents\repository-GGPL\Negociacion\obj\Debug\Negociac.85562D3E.Up2Date
+C:\Users\Empresa\Documents\repository-GGPL\Negociacion\obj\Debug\Negociacion.dll
+C:\Users\Empresa\Documents\repository-GGPL\Negociacion\obj\Debug\Negociacion.pdb
+C:\Users\Khriz\Downloads\repository-GGPL\repository-GGPL\Negociacion\bin\Debug\Negociacion.dll
+C:\Users\Khriz\Downloads\repository-GGPL\repository-GGPL\Negociacion\bin\Debug\Negociacion.pdb
+C:\Users\Khriz\Downloads\repository-GGPL\repository-GGPL\Negociacion\bin\Debug\Datos.dll
+C:\Users\Khriz\Downloads\repository-GGPL\repository-GGPL\Negociacion\bin\Debug\Datos.pdb
+C:\Users\Khriz\Downloads\repository-GGPL\repository-GGPL\Negociacion\obj\Debug\Negociacion.csproj.AssemblyReference.cache
+C:\Users\Khriz\Downloads\repository-GGPL\repository-GGPL\Negociacion\obj\Debug\Negociacion.csproj.CoreCompileInputs.cache
+C:\Users\Khriz\Downloads\repository-GGPL\repository-GGPL\Negociacion\obj\Debug\Negociac.85562D3E.Up2Date
+C:\Users\Khriz\Downloads\repository-GGPL\repository-GGPL\Negociacion\obj\Debug\Negociacion.dll
+C:\Users\Khriz\Downloads\repository-GGPL\repository-GGPL\Negociacion\obj\Debug\Negociacion.pdb
+C:\Users\Khriz\Desktop\repository-GGPL\repository-GGPL\Negociacion\bin\Debug\Negociacion.dll
+C:\Users\Khriz\Desktop\repository-GGPL\repository-GGPL\Negociacion\bin\Debug\Negociacion.pdb
+C:\Users\Khriz\Desktop\repository-GGPL\repository-GGPL\Negociacion\bin\Debug\Datos.dll
+C:\Users\Khriz\Desktop\repository-GGPL\repository-GGPL\Negociacion\bin\Debug\Datos.pdb
+C:\Users\Khriz\Desktop\repository-GGPL\repository-GGPL\Negociacion\obj\Debug\Negociacion.csproj.AssemblyReference.cache
+C:\Users\Khriz\Desktop\repository-GGPL\repository-GGPL\Negociacion\obj\Debug\Negociacion.csproj.CoreCompileInputs.cache
+C:\Users\Khriz\Desktop\repository-GGPL\repository-GGPL\Negociacion\obj\Debug\Negociac.85562D3E.Up2Date
+C:\Users\Khriz\Desktop\repository-GGPL\repository-GGPL\Negociacion\obj\Debug\Negociacion.dll
+C:\Users\Khriz\Desktop\repository-GGPL\repository-GGPL\Negociacion\obj\Debug\Negociacion.pdb
+C:\Users\Khriz\Desktop\repository-GGPL\Negociacion\bin\Debug\Negociacion.dll
+C:\Users\Khriz\Desktop\repository-GGPL\Negociacion\bin\Debug\Negociacion.pdb
+C:\Users\Khriz\Desktop\repository-GGPL\Negociacion\bin\Debug\Datos.dll
+C:\Users\Khriz\Desktop\repository-GGPL\Negociacion\bin\Debug\Datos.pdb
+C:\Users\Khriz\Desktop\repository-GGPL\Negociacion\obj\Debug\Negociacion.csproj.AssemblyReference.cache
+C:\Users\Khriz\Desktop\repository-GGPL\Negociacion\obj\Debug\Negociacion.csproj.CoreCompileInputs.cache
+C:\Users\Khriz\Desktop\repository-GGPL\Negociacion\obj\Debug\Negociac.85562D3E.Up2Date
+C:\Users\Khriz\Desktop\repository-GGPL\Negociacion\obj\Debug\Negociacion.dll
+C:\Users\Khriz\Desktop\repository-GGPL\Negociacion\obj\Debug\Negociacion.pdb
+C:\Users\Empresa\Downloads\repository-GGPL\repository-GGPL\Negociacion\bin\Debug\Negociacion.dll
+C:\Users\Empresa\Downloads\repository-GGPL\repository-GGPL\Negociacion\bin\Debug\Negociacion.pdb
+C:\Users\Empresa\Downloads\repository-GGPL\repository-GGPL\Negociacion\bin\Debug\Datos.dll
+C:\Users\Empresa\Downloads\repository-GGPL\repository-GGPL\Negociacion\bin\Debug\Datos.pdb
+C:\Users\Empresa\Downloads\repository-GGPL\repository-GGPL\Negociacion\obj\Debug\Negociacion.csproj.AssemblyReference.cache
+C:\Users\Empresa\Downloads\repository-GGPL\repository-GGPL\Negociacion\obj\Debug\Negociacion.csproj.CoreCompileInputs.cache
+C:\Users\Empresa\Downloads\repository-GGPL\repository-GGPL\Negociacion\obj\Debug\Negociac.85562D3E.Up2Date
+C:\Users\Empresa\Downloads\repository-GGPL\repository-GGPL\Negociacion\obj\Debug\Negociacion.dll
+C:\Users\Empresa\Downloads\repository-GGPL\repository-GGPL\Negociacion\obj\Debug\Negociacion.pdb
+C:\Users\Empresa\Desktop\repository-GGPL\Negociacion\bin\Debug\Negociacion.dll
+C:\Users\Empresa\Desktop\repository-GGPL\Negociacion\bin\Debug\Negociacion.pdb
+C:\Users\Empresa\Desktop\repository-GGPL\Negociacion\bin\Debug\Datos.dll
+C:\Users\Empresa\Desktop\repository-GGPL\Negociacion\bin\Debug\Datos.pdb
+C:\Users\Empresa\Desktop\repository-GGPL\Negociacion\obj\Debug\Negociacion.csproj.AssemblyReference.cache
+C:\Users\Empresa\Desktop\repository-GGPL\Negociacion\obj\Debug\Negociacion.csproj.CoreCompileInputs.cache
+C:\Users\Empresa\Desktop\repository-GGPL\Negociacion\obj\Debug\Negociac.85562D3E.Up2Date
+C:\Users\Empresa\Desktop\repository-GGPL\Negociacion\obj\Debug\Negociacion.dll
+C:\Users\Empresa\Desktop\repository-GGPL\Negociacion\obj\Debug\Negociacion.pdb
+C:\Users\Darwin Sánchez\Downloads\GGPL\GGPL\Negociacion\bin\Debug\Negociacion.dll
+C:\Users\Darwin Sánchez\Downloads\GGPL\GGPL\Negociacion\bin\Debug\Negociacion.pdb
+C:\Users\Darwin Sánchez\Downloads\GGPL\GGPL\Negociacion\bin\Debug\Datos.dll
+C:\Users\Darwin Sánchez\Downloads\GGPL\GGPL\Negociacion\bin\Debug\Datos.pdb
+C:\Users\Darwin Sánchez\Downloads\GGPL\GGPL\Negociacion\obj\Debug\Negociacion.csproj.AssemblyReference.cache
+C:\Users\Darwin Sánchez\Downloads\GGPL\GGPL\Negociacion\obj\Debug\Negociacion.csproj.CoreCompileInputs.cache
+C:\Users\Darwin Sánchez\Downloads\GGPL\GGPL\Negociacion\obj\Debug\Negociac.85562D3E.Up2Date
+C:\Users\Darwin Sánchez\Downloads\GGPL\GGPL\Negociacion\obj\Debug\Negociacion.dll
+C:\Users\Darwin Sánchez\Downloads\GGPL\GGPL\Negociacion\obj\Debug\Negociacion.pdb
+C:\Users\Darwin Sánchez\Documents\ABD-GGPL\GGPL\Negociacion\bin\Debug\Negociacion.dll
+C:\Users\Darwin Sánchez\Documents\ABD-GGPL\GGPL\Negociacion\bin\Debug\Negociacion.pdb
+C:\Users\Darwin Sánchez\Documents\ABD-GGPL\GGPL\Negociacion\bin\Debug\Datos.dll
+C:\Users\Darwin Sánchez\Documents\ABD-GGPL\GGPL\Negociacion\bin\Debug\Datos.pdb
+C:\Users\Darwin Sánchez\Documents\ABD-GGPL\GGPL\Negociacion\obj\Debug\Negociacion.csproj.AssemblyReference.cache
+C:\Users\Darwin Sánchez\Documents\ABD-GGPL\GGPL\Negociacion\obj\Debug\Negociacion.csproj.CoreCompileInputs.cache
+C:\Users\Darwin Sánchez\Documents\ABD-GGPL\GGPL\Negociacion\obj\Debug\Negociac.85562D3E.Up2Date
+C:\Users\Darwin Sánchez\Documents\ABD-GGPL\GGPL\Negociacion\obj\Debug\Negociacion.dll
+C:\Users\Darwin Sánchez\Documents\ABD-GGPL\GGPL\Negociacion\obj\Debug\Negociacion.pdb
