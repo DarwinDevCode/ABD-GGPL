@@ -47,17 +47,17 @@ namespace Presentacion
             {
                 bool resultado = clase_modulo_produccion_lechera.RegistrarProduccionLechera(aux.IDUsuario, (int)cbxAnimales.SelectedValue, Convert.ToDecimal(tbxLecheProducida.Text), Convert.ToChar(cbxTipoOrdeño.Text), DateTime.Now);
                 if (resultado)
-                    MessageBox.Show("REGISTRO DE PRODUCCION AGREGADO CORRECTAMENTE.");
+                    MessageBox.Show($"Produccion registrada correctamente.", "Éxito", MessageBoxButtons.OK, MessageBoxIcon.Information);
                 else
-                    MessageBox.Show("ERROR AL REGISTRAR LA PRODUCCIÓN.");
+                    MessageBox.Show("No se pudo registrar la producción.", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
             else
             {
                 bool resultado = clase_modulo_produccion_lechera.ModificarProduccionLechera(id_produccion, aux.IDUsuario, (int)cbxAnimales.SelectedValue, Convert.ToDecimal(tbxLecheProducida.Text), Convert.ToChar(cbxTipoOrdeño.Text), DateTime.Now);
                 if (resultado)
-                    MessageBox.Show("REGISTRO DE PRODUCCION MODIFICADO CORRECTAMENTE.");
+                    MessageBox.Show($"Produccion modificada correctamente.", "Éxito", MessageBoxButtons.OK, MessageBoxIcon.Information);
                 else
-                    MessageBox.Show("ERROR AL MODIFICAR LA PRODUCCIÓN.");
+                    MessageBox.Show("No se pudo modificar la producción.", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
 
                 bandera = false;
             }

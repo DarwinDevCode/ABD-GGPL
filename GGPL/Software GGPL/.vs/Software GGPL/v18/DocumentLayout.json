@@ -3,16 +3,7 @@
   "WorkspaceRootPath": "C:\\Users\\Darwin S\u00E1nchez\\Documents\\ABD-GGPL\\GGPL\\Software GGPL\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FBBD80D3-08A2-4F8D-9E77-ECB8915948E3}|..\\Presentacion\\Presentacion.csproj|c:\\users\\darwin s\u00E1nchez\\documents\\abd-ggpl\\ggpl\\presentacion\\frmenfermedad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B8A2391D-DF6B-4B6C-9239-4B3485ACC87C}|..\\Datos\\Datos.csproj|c:\\users\\darwin s\u00E1nchez\\documents\\abd-ggpl\\ggpl\\datos\\csoperacionesanimal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FBBD80D3-08A2-4F8D-9E77-ECB8915948E3}|..\\Presentacion\\Presentacion.csproj|c:\\users\\darwin s\u00E1nchez\\documents\\abd-ggpl\\ggpl\\presentacion\\frmenfermedad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2BFAE621-9298-4C72-901A-0873E9D4C4C8}|..\\Negociacion\\Negociacion.csproj|c:\\users\\darwin s\u00E1nchez\\documents\\abd-ggpl\\ggpl\\negociacion\\csmoduloanimal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FBBD80D3-08A2-4F8D-9E77-ECB8915948E3}|..\\Presentacion\\Presentacion.csproj|c:\\users\\darwin s\u00E1nchez\\documents\\abd-ggpl\\ggpl\\presentacion\\frmpantallaprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +13,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,54 +21,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "csModuloAnimal.cs",
-              "DocumentMoniker": "C:\\Users\\Darwin S\u00E1nchez\\Documents\\ABD-GGPL\\GGPL\\Negociacion\\csModuloAnimal.cs",
-              "RelativeDocumentMoniker": "..\\Negociacion\\csModuloAnimal.cs",
-              "ToolTip": "C:\\Users\\Darwin S\u00E1nchez\\Documents\\ABD-GGPL\\GGPL\\Negociacion\\csModuloAnimal.cs",
-              "RelativeToolTip": "..\\Negociacion\\csModuloAnimal.cs",
-              "ViewState": "AgIAAMgCAAAAAAAAAAAYwM8CAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-02T13:07:41.587Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "csOperacionesAnimal.cs",
-              "DocumentMoniker": "C:\\Users\\Darwin S\u00E1nchez\\Documents\\ABD-GGPL\\GGPL\\Datos\\csOperacionesAnimal.cs",
-              "RelativeDocumentMoniker": "..\\Datos\\csOperacionesAnimal.cs",
-              "ToolTip": "C:\\Users\\Darwin S\u00E1nchez\\Documents\\ABD-GGPL\\GGPL\\Datos\\csOperacionesAnimal.cs",
-              "RelativeToolTip": "..\\Datos\\csOperacionesAnimal.cs",
-              "ViewState": "AgIAAMsBAAAAAAAAAAAcwM0BAAA/AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-02T13:05:42.224Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "frmEnfermedad.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Darwin S\u00E1nchez\\Documents\\ABD-GGPL\\GGPL\\Presentacion\\frmEnfermedad.cs",
-              "RelativeDocumentMoniker": "..\\Presentacion\\frmEnfermedad.cs",
-              "ToolTip": "C:\\Users\\Darwin S\u00E1nchez\\Documents\\ABD-GGPL\\GGPL\\Presentacion\\frmEnfermedad.cs [Dise\u00F1o]",
-              "RelativeToolTip": "..\\Presentacion\\frmEnfermedad.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-02T12:47:20.808Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "frmEnfermedad.cs",
-              "DocumentMoniker": "C:\\Users\\Darwin S\u00E1nchez\\Documents\\ABD-GGPL\\GGPL\\Presentacion\\frmEnfermedad.cs",
-              "RelativeDocumentMoniker": "..\\Presentacion\\frmEnfermedad.cs",
-              "ToolTip": "C:\\Users\\Darwin S\u00E1nchez\\Documents\\ABD-GGPL\\GGPL\\Presentacion\\frmEnfermedad.cs",
-              "RelativeToolTip": "..\\Presentacion\\frmEnfermedad.cs",
-              "ViewState": "AgIAACUAAAAAAAAAAAAkwE0AAAARAAAAAAAAAA==",
+              "Title": "frmPantallaPrincipal.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Darwin S\u00E1nchez\\Documents\\ABD-GGPL\\GGPL\\Presentacion\\frmPantallaPrincipal.cs",
+              "RelativeDocumentMoniker": "..\\Presentacion\\frmPantallaPrincipal.cs",
+              "ToolTip": "C:\\Users\\Darwin S\u00E1nchez\\Documents\\ABD-GGPL\\GGPL\\Presentacion\\frmPantallaPrincipal.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\Presentacion\\frmPantallaPrincipal.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-02T07:42:17.234Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-02T19:43:12.732Z",
+              "EditorCaption": " [Dise\u00F1o]"
             }
           ]
         }
