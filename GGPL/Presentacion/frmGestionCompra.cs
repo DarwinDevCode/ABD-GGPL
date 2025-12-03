@@ -20,7 +20,7 @@ namespace Presentacion
         public List<(string codigo, int lote, int raza, char sexo, DateTime fecha_nacimiento, DateTime fecha_hora_registro, decimal precio)> animal = new List<(string, int, int, char, DateTime, DateTime, decimal)>();
         static frmGestionCompra instancia = null;
         public decimal total = 0;
-        public int bandera;
+        public int bandera=0;
 
         public frmGestionCompra()
         {
@@ -61,22 +61,43 @@ namespace Presentacion
 
         private void btnGuardar_Click(object sender, EventArgs e)
         {
-            bool r1, r3;
-            int r2, r4;
-            (r1, r2) = clase_compra_venta.RegistrarTransaccion(frm.IDUsuario, 'C', (int)cmbTipoPago.SelectedValue, animal.Count, Convert.ToDecimal(txtPrecioTotal.Text), DateTime.Now);
-            if (r1)
+            try
             {
-                foreach (var info in animal)
+                if(bandera == 0)
                 {
-                    (r3, r4) = clase_animales.RegistrarAnimal(info.codigo.ToString(), info.lote.ToString(), info.raza.ToString(), info.sexo.ToString(), info.fecha_nacimiento.ToString(), info.fecha_hora_registro.ToString(), "7");
-                    clase_compra_venta.RegistrarTransaccionVentaAnimal(r2, r4, info.precio);
+                    bool r1, r3;
+                    int r2, r4;
+                    (r1, r2) = clase_compra_venta.RegistrarTransaccion(frm.IDUsuario, 'C', (int)cmbTipoPago.SelectedValue, animal.Count, Convert.ToDecimal(txtPrecioTotal.Text), DateTime.Now);
+                    if (r1)
+                    {
+                        foreach (var info in animal)
+                        {
+                            (r3, r4) = clase_animales.RegistrarAnimal(info.codigo.ToString(), info.lote.ToString(), info.raza.ToString(), info.sexo.ToString(), info.fecha_nacimiento.ToString(), info.fecha_hora_registro.ToString(), "7");
+                            clase_compra_venta.RegistrarTransaccionVentaAnimal(r2, r4, info.precio);
+                        }
+                        frmCompra frm = frmCompra.Formulario();
+                        frm.CargarTabla();
+                        MessageBox.Show($"Compra registrada correctamente.", "Éxito", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                        LimpiarControles();
+                    }
+                    else
+                        MessageBox.Show("No se pudo registrar la compra.", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
                 }
-                frmCompra frm = frmCompra.Formulario();
-                frm.CargarTabla();
-                MessageBox.Show("COMPRA REGISTRADA CON EXITO.");
+                else if(bandera == 1)
+                {
+
+                }
             }
-            else
-                MessageBox.Show("ERROR AL REGISTRAR LA COMPRA:");
+            catch (Exception ex)
+            {
+                MessageBox.Show("Error" + ex.Message);
+            }
+        }
+        public void LimpiarControles()
+        {
+            cmbTipoPago.SelectedIndex = -1;
+            rtbAnimales.Text = string.Empty;
+            txtPrecioTotal.Text = string.Empty;
         }
     }
 }

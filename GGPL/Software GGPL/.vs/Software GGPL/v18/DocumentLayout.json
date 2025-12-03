@@ -3,7 +3,22 @@
   "WorkspaceRootPath": "C:\\Users\\Darwin S\u00E1nchez\\Documents\\ABD-GGPL\\GGPL\\Software GGPL\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FBBD80D3-08A2-4F8D-9E77-ECB8915948E3}|..\\Presentacion\\Presentacion.csproj|c:\\users\\darwin s\u00E1nchez\\documents\\abd-ggpl\\ggpl\\presentacion\\frmpantallaprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{FBBD80D3-08A2-4F8D-9E77-ECB8915948E3}|..\\Presentacion\\Presentacion.csproj|c:\\users\\darwin s\u00E1nchez\\documents\\abd-ggpl\\ggpl\\presentacion\\frmseleccionaranimales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBBD80D3-08A2-4F8D-9E77-ECB8915948E3}|..\\Presentacion\\Presentacion.csproj|c:\\users\\darwin s\u00E1nchez\\documents\\abd-ggpl\\ggpl\\presentacion\\frmseleccionaranimales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBBD80D3-08A2-4F8D-9E77-ECB8915948E3}|..\\Presentacion\\Presentacion.csproj|c:\\users\\darwin s\u00E1nchez\\documents\\abd-ggpl\\ggpl\\presentacion\\frmgestionventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBBD80D3-08A2-4F8D-9E77-ECB8915948E3}|..\\Presentacion\\Presentacion.csproj|c:\\users\\darwin s\u00E1nchez\\documents\\abd-ggpl\\ggpl\\presentacion\\frmventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBBD80D3-08A2-4F8D-9E77-ECB8915948E3}|..\\Presentacion\\Presentacion.csproj|c:\\users\\darwin s\u00E1nchez\\documents\\abd-ggpl\\ggpl\\presentacion\\frmventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBBD80D3-08A2-4F8D-9E77-ECB8915948E3}|..\\Presentacion\\Presentacion.csproj|c:\\users\\darwin s\u00E1nchez\\documents\\abd-ggpl\\ggpl\\presentacion\\frmgestioncompra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,14 +37,77 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "frmPantallaPrincipal.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Darwin S\u00E1nchez\\Documents\\ABD-GGPL\\GGPL\\Presentacion\\frmPantallaPrincipal.cs",
-              "RelativeDocumentMoniker": "..\\Presentacion\\frmPantallaPrincipal.cs",
-              "ToolTip": "C:\\Users\\Darwin S\u00E1nchez\\Documents\\ABD-GGPL\\GGPL\\Presentacion\\frmPantallaPrincipal.cs [Dise\u00F1o]",
-              "RelativeToolTip": "..\\Presentacion\\frmPantallaPrincipal.cs [Dise\u00F1o]",
+              "Title": "frmSeleccionarAnimales.cs",
+              "DocumentMoniker": "C:\\Users\\Darwin S\u00E1nchez\\Documents\\ABD-GGPL\\GGPL\\Presentacion\\frmSeleccionarAnimales.cs",
+              "RelativeDocumentMoniker": "..\\Presentacion\\frmSeleccionarAnimales.cs",
+              "ToolTip": "C:\\Users\\Darwin S\u00E1nchez\\Documents\\ABD-GGPL\\GGPL\\Presentacion\\frmSeleccionarAnimales.cs",
+              "RelativeToolTip": "..\\Presentacion\\frmSeleccionarAnimales.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAABNAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-02T19:43:12.732Z",
+              "WhenOpened": "2025-12-03T05:24:24.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmSeleccionarAnimales.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Darwin S\u00E1nchez\\Documents\\ABD-GGPL\\GGPL\\Presentacion\\frmSeleccionarAnimales.cs",
+              "RelativeDocumentMoniker": "..\\Presentacion\\frmSeleccionarAnimales.cs",
+              "ToolTip": "C:\\Users\\Darwin S\u00E1nchez\\Documents\\ABD-GGPL\\GGPL\\Presentacion\\frmSeleccionarAnimales.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\Presentacion\\frmSeleccionarAnimales.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T05:24:22.232Z",
               "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmGestionVenta.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Darwin S\u00E1nchez\\Documents\\ABD-GGPL\\GGPL\\Presentacion\\frmGestionVenta.cs",
+              "RelativeDocumentMoniker": "..\\Presentacion\\frmGestionVenta.cs",
+              "ToolTip": "C:\\Users\\Darwin S\u00E1nchez\\Documents\\ABD-GGPL\\GGPL\\Presentacion\\frmGestionVenta.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\Presentacion\\frmGestionVenta.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T05:23:29.015Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmVenta.cs",
+              "DocumentMoniker": "C:\\Users\\Darwin S\u00E1nchez\\Documents\\ABD-GGPL\\GGPL\\Presentacion\\frmVenta.cs",
+              "RelativeDocumentMoniker": "..\\Presentacion\\frmVenta.cs",
+              "ToolTip": "C:\\Users\\Darwin S\u00E1nchez\\Documents\\ABD-GGPL\\GGPL\\Presentacion\\frmVenta.cs",
+              "RelativeToolTip": "..\\Presentacion\\frmVenta.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAgwCQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T05:23:21.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmVenta.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Darwin S\u00E1nchez\\Documents\\ABD-GGPL\\GGPL\\Presentacion\\frmVenta.cs",
+              "RelativeDocumentMoniker": "..\\Presentacion\\frmVenta.cs",
+              "ToolTip": "C:\\Users\\Darwin S\u00E1nchez\\Documents\\ABD-GGPL\\GGPL\\Presentacion\\frmVenta.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\Presentacion\\frmVenta.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T05:23:14.468Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmGestionCompra.cs",
+              "DocumentMoniker": "C:\\Users\\Darwin S\u00E1nchez\\Documents\\ABD-GGPL\\GGPL\\Presentacion\\frmGestionCompra.cs",
+              "RelativeDocumentMoniker": "..\\Presentacion\\frmGestionCompra.cs",
+              "ToolTip": "C:\\Users\\Darwin S\u00E1nchez\\Documents\\ABD-GGPL\\GGPL\\Presentacion\\frmGestionCompra.cs",
+              "RelativeToolTip": "..\\Presentacion\\frmGestionCompra.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAcwFAAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T05:17:35.037Z",
+              "EditorCaption": ""
             }
           ]
         }

@@ -402,3 +402,4 @@ C:\Users\Darwin Sánchez\Documents\ABD-GGPL\GGPL\Presentacion\obj\Debug\Presenta
 C:\Users\Darwin Sánchez\Documents\ABD-GGPL\GGPL\Presentacion\obj\Debug\Presenta.BC77CD05.Up2Date
 C:\Users\Darwin Sánchez\Documents\ABD-GGPL\GGPL\Presentacion\obj\Debug\Presentacion.dll
 C:\Users\Darwin Sánchez\Documents\ABD-GGPL\GGPL\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\Darwin Sánchez\Documents\ABD-GGPL\GGPL\Presentacion\obj\Debug\Presentacion.frmDetalleCompra.resources

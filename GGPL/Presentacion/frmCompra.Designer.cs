@@ -128,6 +128,7 @@
             this.dgvCompras.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
             this.dgvCompras.Size = new System.Drawing.Size(885, 341);
             this.dgvCompras.TabIndex = 64;
+            this.dgvCompras.CellDoubleClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgvCompras_CellDoubleClick);
             // 
             // frmCompra
             // 

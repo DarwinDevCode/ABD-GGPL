@@ -747,6 +747,11 @@ namespace Negociacion
             }
         }
 
+        public DataTable ListaAnimalCompra(int id_transaccion)
+        {
+            return clase_operacion_animal.ListaAnimalCompra(id_transaccion);
+        }
 
     }
+
 }

@@ -1717,5 +1717,21 @@ namespace Datos
             return tabla;
         }
 
+        public DataTable ListaAnimalCompra(int id_transaccion)
+        {
+            const string sp = "SP_V_ListaAnimalCompra";
+            DataTable tabla = new DataTable();
+
+            using (SqlConnection cn = csConexionBD.ObtenerConexion())
+            using (SqlCommand cmd = new SqlCommand(sp, cn))
+            using (SqlDataAdapter da = new SqlDataAdapter(cmd))
+            {
+                cmd.CommandType = CommandType.StoredProcedure;
+                cmd.Parameters.AddWithValue("@IDTransaccion", id_transaccion);
+                da.Fill(tabla);
+            }
+
+            return tabla;
+        }
     }
 }
